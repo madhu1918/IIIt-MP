@@ -1,0 +1,167 @@
+{
+    "activities": [],
+    "learningObjectives": [
+    ],
+    "overview": [
+    ],
+    "title": "Mobile Programming",
+    "units": [{
+            "activities": [
+                "Video on Introduction to Project Sunshine",
+                "Video on Introducing project sunshine",
+                "Video on A Brief Intro to Android Studio",
+                "Video on Coding, GitHub and Flow",
+                "Video on Creating our First Project",
+                "Video on Android Min and Target Versions",
+                "Video on Running Your Code",
+                "Video on Android Software Stack",
+                "Video on Activities, Packages, and Layouts",
+                "Video on Exercise Framing Favorite Toys",
+                "Video on Exercise Toying with FavoriteToys",
+                "Video on Exercise See More FavoriteToys",
+                "Video on Visual Layout Editor",
+                "Video on Handling Different Screen",
+                "Video on Responsive Design",
+                "Video on Layout Managers",
+                "Video on Recap-1",
+                "Group Discussion",
+                "Installation of Android Studio",
+                "Video on Introduction",
+                "Video on Logging",
+                "Video on Internet Toy App Intro",
+                "Video on Exercise Create a Layout",
+                "Video on On Menus",
+                "Video on Exercise Add a Menu",
+                "Video on Exercise Build our URL",
+                "Video on Fetching an HTTP Request",
+                "Video on Permissions",
+                "Video on Exercise Connect to the Internet",
+                "Video on Thread Basics",
+                "Video on AsyncTask",
+                "Video on Exercise Create an AsyncTask",
+                "Video on Exercise Missing Permissions",
+                "Video on Exercise Add Polish",
+                "Video on JSON Format",
+                "Video on Quiz JSON by Hand",
+                "Video on Parse JSON",
+                "Video on Exercise Networking",
+                "Video on Exercise Menus",
+                "Video on Refresh Bad",
+                "Video on Recap-2"
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-1"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-2"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-3"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-4"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-5"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Week-1 Exam"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-6"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-7"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-8"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-9"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-10"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-11"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Week-2 Exam"
+        }
+    ]
+}

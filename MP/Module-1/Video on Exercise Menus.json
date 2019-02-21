@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Menus",
+		"activityType":"video",
+		"videoURL":"23. Exercise: Menus.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Menus"
+			}
+		
+		]
+	}
+]
+
+

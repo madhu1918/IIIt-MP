@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Android Software Stack",
+		"activityType":"video",
+		"videoURL":"11. Android Software Stack.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Android Software Stack"
+			}
+		
+		]
+	}
+]
+
+

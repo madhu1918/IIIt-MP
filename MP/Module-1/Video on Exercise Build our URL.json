@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Build our URL",
+		"activityType":"video",
+		"videoURL":"8. Exercise: Build our URL.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Build our URL"
+			}
+		
+		]
+	}
+]
+
+

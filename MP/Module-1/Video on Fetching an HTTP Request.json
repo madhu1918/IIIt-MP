@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Fetching an HTTP Request",
+		"activityType":"video",
+		"videoURL":"9. Fetching an HTTP Request.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Fetching an HTTP Request"
+			}
+		
+		]
+	}
+]
+
+

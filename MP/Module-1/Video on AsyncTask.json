@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on AsyncTask",
+		"activityType":"video",
+		"videoURL":"14. AsyncTask.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on AsyncTask"
+			}
+		
+		]
+	}
+]
+
+

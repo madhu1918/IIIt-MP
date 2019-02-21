@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on A Brief Intro to Android Studio",
+		"activityType":"video",
+		"videoURL":"4. A Brief Intro to Android Studio.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on A Brief Intro to Android Studio"
+			}
+		
+		]
+	}
+]
+
+

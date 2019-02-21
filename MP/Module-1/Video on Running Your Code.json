@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Running Your Code",
+		"activityType":"video",
+		"videoURL":"10. Running Your Code.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Running Your Code"
+			}
+		
+		]
+	}
+]
+
+

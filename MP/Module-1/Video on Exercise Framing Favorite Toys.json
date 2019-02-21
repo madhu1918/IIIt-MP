@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Framing Favorite Toys",
+		"activityType":"video",
+		"videoURL":"15. Exercise: Framing Favorite Toys.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Framing Favorite Toys"
+			}
+		
+		]
+	}
+]
+
+

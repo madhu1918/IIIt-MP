@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Create an AsyncTask",
+		"activityType":"video",
+		"videoURL":"16. Exercise: Create an AsyncTask.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Create an AsyncTask"
+			}
+		
+		]
+	}
+]
+
+

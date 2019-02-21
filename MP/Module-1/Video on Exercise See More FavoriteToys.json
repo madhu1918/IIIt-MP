@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise See More FavoriteToys",
+		"activityType":"video",
+		"videoURL":"17. Exercise: See More FavoriteToys.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise See More FavoriteToys"
+			}
+		
+		]
+	}
+]
+
+

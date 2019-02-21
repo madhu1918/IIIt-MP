@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Create a Layout",
+		"activityType":"video",
+		"videoURL":"4. Exercise: Create a Layout.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Create a Layout"
+			}
+		
+		]
+	}
+]
+
+

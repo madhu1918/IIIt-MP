@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Add Polish",
+		"activityType":"video",
+		"videoURL":"18. Exercise: Add Polish.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Add Polish"
+			}
+		
+		]
+	}
+]
+
+

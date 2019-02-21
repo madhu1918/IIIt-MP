@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Add a Menu",
+		"activityType":"video",
+		"videoURL":"7. Exercise: Add a Menu.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Add a Menu"
+			}
+		
+		]
+	}
+]
+
+

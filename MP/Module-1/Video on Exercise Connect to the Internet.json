@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Connect to the Internet",
+		"activityType":"video",
+		"videoURL":"12. Exercise: Connect to the Internet.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Connect to the Internet"
+			}
+		
+		]
+	}
+]
+
+

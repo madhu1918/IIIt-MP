@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on JSON Format",
+		"activityType":"video",
+		"videoURL":"19. JSON Format.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on JSON Format"
+			}
+		
+		]
+	}
+]
+
+

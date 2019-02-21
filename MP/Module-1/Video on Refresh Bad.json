@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Refresh Bad",
+		"activityType":"video",
+		"videoURL":"25. Refresh Bad.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Refresh Bad"
+			}
+		
+		]
+	}
+]
+
+
