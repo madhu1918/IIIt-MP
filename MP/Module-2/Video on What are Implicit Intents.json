@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on What are Implicit Intents",
+		"activityType":"video",
+		"videoURL":"11. What are Implicit Intents.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on What are Implicit Intents"
+			}
+		
+		]
+	}
+]
+
+

@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Explicit Intent Toy App",
+		"activityType":"video",
+		"videoURL":"4. Explicit Intent Toy App.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Explicit Intent Toy App"
+			}
+		
+		]
+	}
+]
+
+

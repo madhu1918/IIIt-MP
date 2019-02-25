@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Creating an Activity",
+		"activityType":"video",
+		"videoURL":"5. Creating an Activity.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Creating an Activity"
+			}
+		
+		]
+	}
+]
+
+

@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Items and ViewHolders",
+		"activityType":"video",
+		"videoURL":"11. Exercise: Items and ViewHolders.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Items and ViewHolders"
+			}
+		
+		]
+	}
+]
+
+

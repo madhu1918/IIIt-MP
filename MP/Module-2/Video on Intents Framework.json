@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Intents Framework",
+		"activityType":"video",
+		"videoURL":"3. Intents Framework.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Intents Framework"
+			}
+		
+		]
+	}
+]
+
+

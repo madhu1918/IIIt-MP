@@ -47,7 +47,8 @@
                 "Video on Exercise Networking",
                 "Video on Exercise Menus",
                 "Video on Refresh Bad",
-                "Video on Recap-2"
+                "Video on Recap-2",
+                "Assignment-1"
             ],
             "learningObjectives": [
             ],
@@ -57,6 +58,33 @@
         },
         {
             "activities": [
+                "Video on Introduction",
+                "Video on Why RecyclerView",
+                "Video on How RecyclerView Works",
+                "Video on Using RecyclerView",
+                "Video on Why ViewHolders",
+                "Video on Visualizing ViewHolders",
+                "Video on Creating RecyclerView Layout",
+                "Video on Items and ViewHolders",
+                "Video on Exercise Items and ViewHolders",
+                "Video on RecyclerView and Adapters",
+                "Video on Creating an Adapter",
+                "Video on RecyclerView Layout Manager",
+                "Video on Wiring Up RecyclerView",
+                "Video on Visualizing Recycling",
+                "Video on Responding to Item Clicks",
+                "Video on Recap-1",
+                "Group Discussion",
+                "Video on Intent Introduction",
+                "Video on Sunshine App UX Mocks",
+                "Video on Intents Framework",
+                "Video on Explicit Intent Toy App",
+                "Video on Creating an Activity",
+                "Video on Creating an Intent",
+                "Video on Passing Data Between Activities",
+                "Video on What are Implicit Intents",
+                "Video on Creating Implicit Intents",
+                "Assignment-1"
             ],
             "learningObjectives": [
             ],

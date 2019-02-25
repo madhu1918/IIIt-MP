@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Visualizing Recycling",
+		"activityType":"video",
+		"videoURL":"19. Visualizing Recycling.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Visualizing Recycling"
+			}
+		
+		]
+	}
+]
+
+

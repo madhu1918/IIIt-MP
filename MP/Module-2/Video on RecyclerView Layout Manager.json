@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on RecyclerView Layout Manager",
+		"activityType":"video",
+		"videoURL":"16. RecyclerView Layout Manager.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on RecyclerView Layout Manager"
+			}
+		
+		]
+	}
+]
+
+

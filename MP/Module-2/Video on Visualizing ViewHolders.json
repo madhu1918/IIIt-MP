@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Visualizing ViewHolders",
+		"activityType":"video",
+		"videoURL":"7. Visualizing ViewHolders.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Visualizing ViewHolders"
+			}
+		
+		]
+	}
+]
+
+

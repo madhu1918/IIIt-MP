@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Recap-1",
+		"activityType":"video",
+		"videoURL":"24. Recap.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Recap-1"
+			}
+		
+		]
+	}
+]
+
+
