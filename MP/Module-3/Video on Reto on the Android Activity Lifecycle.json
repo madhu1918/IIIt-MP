@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Reto on the Android Activity Lifecycle",
+		"activityType":"video",
+		"videoURL":"4. Reto on the Android Activity Lifecycle.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Reto on the Android Activity Lifecycle"
+			}
+		
+		]
+	}
+]
+
+

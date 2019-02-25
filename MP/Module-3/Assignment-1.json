@@ -1,0 +1,13 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":20,
+		"graded": true,
+		"questionText": [{
+				"text": "Upload the  APK and Program you have developed today in the drive and submit the drive link."
+			}
+		]
+	}]
+}]

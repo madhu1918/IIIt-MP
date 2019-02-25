@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Save and Restore Instance State",
+		"activityType":"video",
+		"videoURL":"7. Save and Restore Instance State.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Save and Restore Instance State"
+			}
+		
+		]
+	}
+]
+
+

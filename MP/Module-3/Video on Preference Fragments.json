@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Preference Fragments",
+		"activityType":"video",
+		"videoURL":"7. Preference Fragments.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Preference Fragments"
+			}
+		
+		]
+	}
+]
+
+

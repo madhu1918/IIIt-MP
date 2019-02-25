@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Creating a Map Intent",
+		"activityType":"video",
+		"videoURL":"16. Creating a Map Intent.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Creating a Map Intent"
+			}
+		
+		]
+	}
+]
+
+

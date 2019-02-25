@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Making a PreferenceFragment",
+		"activityType":"video",
+		"videoURL":"10. Making a PreferenceFragment.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Making a PreferenceFragment"
+			}
+		
+		]
+	}
+]
+
+

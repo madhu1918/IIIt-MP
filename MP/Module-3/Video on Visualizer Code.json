@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Visualizer Code",
+		"activityType":"video",
+		"videoURL":"3. Visualizer Code.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Visualizer Code"
+			}
+		
+		]
+	}
+]
+
+

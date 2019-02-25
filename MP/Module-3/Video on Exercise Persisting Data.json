@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Persisting Data",
+		"activityType":"video",
+		"videoURL":"8. Exercise: Persisting Data.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Persisting Data"
+			}
+		
+		]
+	}
+]
+
+

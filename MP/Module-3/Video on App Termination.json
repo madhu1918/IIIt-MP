@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on App Termination",
+		"activityType":"video",
+		"videoURL":"10. App Termination.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on App Termination"
+			}
+		
+		]
+	}
+]
+
+

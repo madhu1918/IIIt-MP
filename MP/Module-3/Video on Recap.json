@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Recap",
+		"activityType":"video",
+		"videoURL":"26. Recap intent.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Recap"
+			}
+		
+		]
+	}
+]
+
+

@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Setting up the Settings Activity",
+		"activityType":"video",
+		"videoURL":"8. Setting up the Settings Activity.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Setting up the Settings Activity"
+			}
+		
+		]
+	}
+]
+
+

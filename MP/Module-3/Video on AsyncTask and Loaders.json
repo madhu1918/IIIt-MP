@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on AsyncTask and Loaders",
+		"activityType":"video",
+		"videoURL":"14. AsyncTask and Loaders.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on AsyncTask and Loaders"
+			}
+		
+		]
+	}
+]
+
+

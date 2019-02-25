@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Why We Need an Activity Lifecycle",
+		"activityType":"video",
+		"videoURL":"2. Why We Need an Activity Lifecycle.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Why We Need an Activity Lifecycle"
+			}
+		
+		]
+	}
+]
+
+
