@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Calling the ContentProvider",
+		"activityType":"video",
+		"videoURL":"17. Calling the ContentProvider.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Calling the ContentProvider"
+			}
+		
+		]
+	}
+]
+
+

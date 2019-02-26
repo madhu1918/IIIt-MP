@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Creating an Entity",
+		"activityType":"video",
+		"videoURL":"4. Exercise: Creating an Entity.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Creating an Entity"
+			}
+		
+		]
+	}
+]
+
+

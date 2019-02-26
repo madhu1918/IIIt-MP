@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on ViewModel",
+		"activityType":"video",
+		"videoURL":"21. ViewModel.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on ViewModel"
+			}
+		
+		]
+	}
+]
+
+

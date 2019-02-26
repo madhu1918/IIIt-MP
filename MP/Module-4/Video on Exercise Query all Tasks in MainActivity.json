@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Query all Tasks in MainActivity",
+		"activityType":"video",
+		"videoURL":"11. Exercise: Query all Tasks in MainActivity.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Query all Tasks in MainActivity"
+			}
+		
+		]
+	}
+]
+
+

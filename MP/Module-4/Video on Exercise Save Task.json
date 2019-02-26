@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Save Task",
+		"activityType":"video",
+		"videoURL":"10. Exercise: Save Task.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Save Task"
+			}
+		
+		]
+	}
+]
+
+

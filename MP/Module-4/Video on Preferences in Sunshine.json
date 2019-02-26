@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Preferences in Sunshine",
+		"activityType":"video",
+		"videoURL":"30. Preferences in Sunshine.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Preferences in Sunshine"
+			}
+		
+		]
+	}
+]
+
+

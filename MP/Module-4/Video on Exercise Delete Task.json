@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Delete Task",
+		"activityType":"video",
+		"videoURL":"14. Exercise: Delete Task.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Delete Task"
+			}
+		
+		]
+	}
+]
+
+

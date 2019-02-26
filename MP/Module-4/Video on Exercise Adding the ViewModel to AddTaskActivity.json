@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Adding the ViewModel to AddTaskActivity",
+		"activityType":"video",
+		"videoURL":"23. Exercise: Adding the ViewModel to AddTaskActivity.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Adding the ViewModel to AddTaskActivity"
+			}
+		
+		]
+	}
+]
+
+

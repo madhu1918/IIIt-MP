@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Create the PreferenceFragment in Sunshine",
+		"activityType":"video",
+		"videoURL":"34. Exercise: Create the PreferenceFragment in Sunshine.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Create the PreferenceFragment in Sunshine"
+			}
+		
+		]
+	}
+]
+
+

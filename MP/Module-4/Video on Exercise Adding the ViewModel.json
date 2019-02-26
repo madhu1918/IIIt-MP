@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Adding the ViewModel",
+		"activityType":"video",
+		"videoURL":"22.Exercise: Adding the ViewModel.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Adding the ViewModel"
+			}
+		
+		]
+	}
+]
+
+

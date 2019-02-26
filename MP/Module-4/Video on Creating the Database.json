@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Creating the Database",
+		"activityType":"video",
+		"videoURL":"7. Creating the Database.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Creating the Database"
+			}
+		
+		]
+	}
+]
+
+

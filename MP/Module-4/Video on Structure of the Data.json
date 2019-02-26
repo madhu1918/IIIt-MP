@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Structure of the Data",
+		"activityType":"video",
+		"videoURL":"19. Structure of the Data.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Structure of the Data"
+			}
+		
+		]
+	}
+]
+
+

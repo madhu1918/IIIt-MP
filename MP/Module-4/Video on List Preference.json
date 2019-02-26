@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on List Preference",
+		"activityType":"video",
+		"videoURL":"21. List Preference.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on List Preference"
+			}
+		
+		]
+	}
+]
+
+

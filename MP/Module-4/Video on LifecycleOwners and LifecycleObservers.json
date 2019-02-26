@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on LifecycleOwners and LifecycleObservers",
+		"activityType":"video",
+		"videoURL":"25. LifecycleOwners and LifecycleObservers.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on LifecycleOwners and LifecycleObservers"
+			}
+		
+		]
+	}
+]
+
+

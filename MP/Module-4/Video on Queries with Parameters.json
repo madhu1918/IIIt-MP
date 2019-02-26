@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Queries with Parameters",
+		"activityType":"video",
+		"videoURL":"15. Queries with Parameters.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Queries with Parameters"
+			}
+		
+		]
+	}
+]
+
+

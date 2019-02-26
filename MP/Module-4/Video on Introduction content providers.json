@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Introduction content providers",
+		"activityType":"video",
+		"videoURL":"1. Introduction content providers.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Introduction content providers"
+			}
+		
+		]
+	}
+]
+
+

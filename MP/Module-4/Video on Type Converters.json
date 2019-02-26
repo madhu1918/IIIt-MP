@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Type Converters",
+		"activityType":"video",
+		"videoURL":"8. Type Converters.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Type Converters"
+			}
+		
+		]
+	}
+]
+
+

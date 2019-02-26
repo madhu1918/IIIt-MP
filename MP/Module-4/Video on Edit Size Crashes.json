@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Edit Size Crashes",
+		"activityType":"video",
+		"videoURL":"27. Edit Size Crashes.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Edit Size Crashes"
+			}
+		
+		]
+	}
+]
+
+

@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Create the SettingsActivity in Sunshine",
+		"activityType":"video",
+		"videoURL":"32. Exercise: Create the SettingsActivity in Sunshine.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Create the SettingsActivity in Sunshine"
+			}
+		
+		]
+	}
+]
+
+

@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Adding LiveData",
+		"activityType":"video",
+		"videoURL":"19. Exercise: Adding LiveData.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Adding LiveData"
+			}
+		
+		]
+	}
+]
+
+

@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Executors",
+		"activityType":"video",
+		"videoURL":"13. Exercise: Executors.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Executors"
+			}
+		
+		]
+	}
+]
+
+
