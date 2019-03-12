@@ -3,16 +3,6 @@
 		"title":"Video on Android Min and Target Versions",
 		"activityType":"video",
 		"videoURL":"8. Android Min and Target Versions.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Android Min and Target Versions"
-			}
-		
-		]
 	}
 ]
 

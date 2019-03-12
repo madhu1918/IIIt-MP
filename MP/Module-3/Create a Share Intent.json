@@ -1,0 +1,35 @@
+[
+	{
+	"title":"Create a Share Intent",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Now it's your turn! Complete the TODOs in"
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-ShareText.zip"]
+		},
+		{
+			"text": "Complete these TODOs."
+		},
+		{
+				"image": {
+					"imageSRC": "image-2.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

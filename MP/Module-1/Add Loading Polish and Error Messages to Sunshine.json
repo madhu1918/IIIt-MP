@@ -1,0 +1,32 @@
+[
+	{
+	"title":"Add Loading Polish and Error Messages to Sunshine",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this Exercise, you will get to apply what you've learned about adding polish to Sunshine."
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-Polish.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-14.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

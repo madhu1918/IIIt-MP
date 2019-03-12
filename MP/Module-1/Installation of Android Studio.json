@@ -3,7 +3,19 @@
 	"activityType": "reading",
 	"quizDescription": [
 		{
-			"text": "Follow the below link to install Android Studio <a href=\"https://developer.android.com/studio/install\">Please find the link"
+			"text": "Follow the below link to install Android Studio <a href=\"https://developer.android.com/studio/install\">Please find the link</a>"
+		},
+				{
+			"text": "Please download executable file :"
+		},
+		{
+			"attachment": ["android-studio-ide-182.5314842-windows.exe"]
+		},
+		{
+			"text": "Please download ENB  Template :"
+		},
+		{
+			"attachment": ["ENB - Mobile Programming.docx"]
 		}
 	]
 	}

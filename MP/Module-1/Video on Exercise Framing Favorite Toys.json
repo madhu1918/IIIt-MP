@@ -5,14 +5,38 @@
 		"videoURL":"15. Exercise: Framing Favorite Toys.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Framing Favorite Toys"
+	"title":"Exercise Code",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Exercise Framing Favorite Toys<ul><li>Create a Git repository as Rollnumber-MobileProgramming and add your Mentor/PC as a collaborator.</li><li>Create a folder Module-1 and push all the tasks you do today into this folder.</li></ul>"
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-CreateLayout-1.zip"]
+		},
+		{
+			"text": "To open pre-existing Android code, select the Import Project option from the Android Studio dialog. You can close your currently open project to get back to the Android Studio starting menu."
+		},
+		{
+				"image": {
+					"imageSRC": "image-1.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "Make sure to make use of the TODOs comments. They will guide you very explicitly through what you need to do. In this exercise, you'll be working with only two files: app/build.gradle (not to be confused with the build.gradle not in the app folder) and activity_main.xml.<br><br>activity_main.xml is the layout file that determines what is shown in the MainActivity.java file. It has a ConstraintLayout surrounding a TextView. In this exercise, you'll change the ConstraintLayout to a FrameLayout. A FrameLayout is a layout that generally contains one view or overlapping views. You'll also update a bunch of attributes for the TextView. <br><br>In the app/build.gradle you simply need to delete the ConstraintLayout dependency."
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

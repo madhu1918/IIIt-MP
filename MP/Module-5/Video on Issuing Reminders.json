@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Issuing Reminders",
+		"activityType":"video",
+		"videoURL":"22. Issuing Reminders.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Issuing Reminders"
+			}
+		
+		]
+	}
+]
+
+

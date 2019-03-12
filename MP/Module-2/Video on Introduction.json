@@ -3,16 +3,6 @@
 		"title":"Video on Introduction",
 		"activityType":"video",
 		"videoURL":"1. Introduction Recycler View.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Introduction"
-			}
-		
-		]
 	}
 ]
 

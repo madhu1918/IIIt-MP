@@ -3,16 +3,6 @@
 		"title":"Video on Data Persistence",
 		"activityType":"video",
 		"videoURL":"5. Data Persistence.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Data Persistence"
-			}
-		
-		]
 	}
 ]
 

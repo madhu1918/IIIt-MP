@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Introduction Polishing the UI",
+		"activityType":"video",
+		"videoURL":"1. Introduction Polishing the UI.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Introduction Polishing the UI"
+			}
+		
+		]
+	}
+]
+
+

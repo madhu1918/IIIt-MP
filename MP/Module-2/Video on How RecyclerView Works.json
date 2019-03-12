@@ -3,16 +3,6 @@
 		"title":"Video on How RecyclerView Works",
 		"activityType":"video",
 		"videoURL":"3. How RecyclerView Works.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on How RecyclerView Works"
-			}
-		
-		]
 	}
 ]
 

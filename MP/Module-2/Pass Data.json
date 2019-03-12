@@ -1,0 +1,35 @@
+[
+	{
+	"title":"Pass Data",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Now it’s your turn. Complete the TODOs in"
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-PassingDataBetweenActivities.zip"]
+		},
+		{
+			"text": "Complete these TODOs."
+		},
+		{
+				"image": {
+					"imageSRC": "image-10.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

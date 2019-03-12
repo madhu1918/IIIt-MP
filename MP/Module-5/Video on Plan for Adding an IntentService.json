@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Plan for Adding an IntentService",
+		"activityType":"video",
+		"videoURL":"12. Plan for Adding an IntentService.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Plan for Adding an IntentService"
+			}
+		
+		]
+	}
+]
+
+

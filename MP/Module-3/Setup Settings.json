@@ -1,0 +1,35 @@
+[
+	{
+	"title":"Setup Settings",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise, you will get to setup the settings activity."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["01-Exercise-SetupTheActivity.zip"]
+		},
+		{
+			"text": "Complete these TODOs."
+		},
+		{
+				"image": {
+					"imageSRC": "image-10.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

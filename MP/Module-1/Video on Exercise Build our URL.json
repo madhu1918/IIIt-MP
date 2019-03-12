@@ -5,14 +5,32 @@
 		"videoURL":"8. Exercise: Build our URL.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Build our URL"
+	"title":"Exercise Build our URL",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Build the Url that will be used to query Github and display it when the Search button is pressed."
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-DisplayUrl.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-8.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

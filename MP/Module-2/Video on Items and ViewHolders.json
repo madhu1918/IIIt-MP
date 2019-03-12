@@ -3,16 +3,6 @@
 		"title":"Video on Items and ViewHolders",
 		"activityType":"video",
 		"videoURL":"10. Items and ViewHolders.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Items and ViewHolders"
-			}
-		
-		]
 	}
 ]
 

@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Color Guidelines",
+		"activityType":"video",
+		"videoURL":"5. Color Guidelines.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Color Guidelines"
+			}
+		
+		]
+	}
+]
+
+

@@ -1,0 +1,38 @@
+[
+	{
+	"title":"Create an Adapter",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this Exercise, you will get to create an adapter to populate the recyclerview with values."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-RecyclerViewAdapter.zip"]
+		},
+		{
+			"text": "And now you get to create an Adapter! Mostly. I've got you started by creating the class, but you get to fill it out by completing these tasks."
+		},
+		{
+			"text": "Complete these TODOs."
+		},
+		{
+				"image": {
+					"imageSRC": "image-3.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

@@ -3,16 +3,6 @@
 		"title":"Video on Implementing a Share Intent",
 		"activityType":"video",
 		"videoURL":"20. Implementing a Share Intent.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Implementing a Share Intent"
-			}
-		
-		]
 	}
 ]
 

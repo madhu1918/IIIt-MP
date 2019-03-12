@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Running in the Background",
+		"activityType":"video",
+		"videoURL":"2. Running in the Background.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Running in the Background"
+			}
+		
+		]
+	}
+]
+
+

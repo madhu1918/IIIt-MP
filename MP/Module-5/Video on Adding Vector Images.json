@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Adding Vector Images",
+		"activityType":"video",
+		"videoURL":"8. Adding Vector Images.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Adding Vector Images"
+			}
+		
+		]
+	}
+]
+
+

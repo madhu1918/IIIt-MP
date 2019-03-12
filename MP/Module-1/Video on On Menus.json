@@ -3,16 +3,6 @@
 		"title":"Video on On Menus",
 		"activityType":"video",
 		"videoURL":"6. On Menus.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on On Menus"
-			}
-		
-		]
 	}
 ]
 

@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Broadcast Receivers",
+		"activityType":"video",
+		"videoURL":"26. Broadcast Receivers.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Broadcast Receivers"
+			}
+		
+		]
+	}
+]
+
+

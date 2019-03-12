@@ -3,16 +3,6 @@
 		"title":"Video on Life Cycle Introduction",
 		"activityType":"video",
 		"videoURL":"1. Introduction Lifecycle.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Life Cycle Introduction"
-			}
-		
-		]
 	}
 ]
 

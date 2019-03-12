@@ -3,16 +3,6 @@
 		"title":"Video on Internet Toy App Intro",
 		"activityType":"video",
 		"videoURL":"3. Internet Toy App Intro.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Internet Toy App Intro"
-			}
-		
-		]
 	}
 ]
 

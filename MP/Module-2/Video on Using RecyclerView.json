@@ -3,16 +3,6 @@
 		"title":"Video on Using RecyclerView",
 		"activityType":"video",
 		"videoURL":"4. Using RecyclerView.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Using RecyclerView"
-			}
-		
-		]
 	}
 ]
 

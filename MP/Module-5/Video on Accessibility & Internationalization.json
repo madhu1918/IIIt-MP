@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Accessibility & Internationalization",
+		"activityType":"video",
+		"videoURL":"12. Accessibility & Internationalization.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Accessibility & Internationalization"
+			}
+		
+		]
+	}
+]
+
+

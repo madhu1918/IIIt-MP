@@ -1,0 +1,35 @@
+[
+	{
+	"title":"Send Data",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Now it's your turn. In this you will add code to send the String from the clicked list item to the DetailActivity and display it. Complete the TODOs"
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-DisplayDayForecast.zip"]
+		},
+		{
+			"text": "Complete these TODOs."
+		},
+		{
+				"image": {
+					"imageSRC": "image-4.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

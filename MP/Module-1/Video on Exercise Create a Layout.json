@@ -5,14 +5,32 @@
 		"videoURL":"4. Exercise: Create a Layout.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Create a Layout"
+	"title":"Exercise Create a Layout",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Now it's your turn. Create our \"Github Query\" Layout, following all the TODOs in the exercise, and attach it to your Java code. Have fun!"
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-CreateLayout-2.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-5.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

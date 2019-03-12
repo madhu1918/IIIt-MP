@@ -5,14 +5,35 @@
 		"videoURL":"12. Exercise: Connect to the Internet.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Connect to the Internet"
+	"title":"Exercise Connect to the Internet",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Now it's your turn! Follow the TODOS. But it will crash when you run it."
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-ConnectingToTheInternet.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-9.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "Look in the Android Monitor logcat. What error do you see when the app tries to connect to the Internet? Think about it and Fix it!"
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

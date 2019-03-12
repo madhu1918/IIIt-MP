@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Adding Actions to Notifications",
+		"activityType":"video",
+		"videoURL":"19. Exercise: Adding Actions to Notifications.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Adding Actions to Notifications"
+			}
+		
+		]
+	}
+]
+
+

@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Views and View Groups",
+		"activityType":"video",
+		"videoURL":"2. Views and View Groups.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Views and View Groups"
+			}
+		
+		]
+	}
+]
+
+

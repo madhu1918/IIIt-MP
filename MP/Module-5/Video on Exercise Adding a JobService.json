@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Adding a JobService",
+		"activityType":"video",
+		"videoURL":"24. Exercise: Adding a JobService.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Adding a JobService"
+			}
+		
+		]
+	}
+]
+
+

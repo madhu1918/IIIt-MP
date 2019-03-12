@@ -3,16 +3,6 @@
 		"title":"Video on Quiz JSON by Hand",
 		"activityType":"video",
 		"videoURL":"20. Quiz: JSON by Hand.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Quiz JSON by Hand"
-			}
-		
-		]
 	}
 ]
 

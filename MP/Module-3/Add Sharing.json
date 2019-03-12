@@ -1,0 +1,35 @@
+[
+	{
+	"title":"Add Sharing",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this quiz, you are going to add a menu item to Sunshine that shares content using the ShareCompat.IntentBuilder class. Hint: You should have a String variable that contains those details in your DetailActivity. Complete the TODOs in"
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-AddMapAndSharing.zip"]
+		},
+		{
+			"text": "Complete these TODOs."
+		},
+		{
+				"image": {
+					"imageSRC": "image-5.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

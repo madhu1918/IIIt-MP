@@ -1,15 +1,14 @@
 {
     "activities": [],
-    "learningObjectives": [
-    ],
-    "overview": [
-    ],
+    "learningObjectives": [],
+    "overview": [],
     "title": "Mobile Programming",
     "units": [{
             "activities": [
                 "Video on Introduction to Project Sunshine",
                 "Video on Introducing project sunshine",
                 "Video on A Brief Intro to Android Studio",
+                "Installation of Android Studio",
                 "Video on Coding, GitHub and Flow",
                 "Video on Creating our First Project",
                 "Video on Android Min and Target Versions",
@@ -23,13 +22,14 @@
                 "Video on Handling Different Screen",
                 "Video on Responsive Design",
                 "Video on Layout Managers",
+                "Update Sunshine Layout and  Add Scrolling Weather",
                 "Video on Recap-1",
                 "Group Discussion",
-                "Installation of Android Studio",
                 "Video on Introduction",
                 "Video on Logging",
                 "Video on Internet Toy App Intro",
                 "Video on Exercise Create a Layout",
+                "Resources",
                 "Video on On Menus",
                 "Video on Exercise Add a Menu",
                 "Video on Exercise Build our URL",
@@ -46,14 +46,14 @@
                 "Video on Parse JSON",
                 "Video on Exercise Networking",
                 "Video on Exercise Menus",
+                "Add Loading Polish and Error Messages to Sunshine",
                 "Video on Refresh Bad",
                 "Video on Recap-2",
-                "Assignment-1"
+                "Assignment-1",
+                "Assignment-2"
             ],
-            "learningObjectives": [
-            ],
-            "overview": [
-            ],
+            "learningObjectives": [],
+            "overview": [],
             "title": "Module-1"
         },
         {
@@ -65,14 +65,20 @@
                 "Video on Why ViewHolders",
                 "Video on Visualizing ViewHolders",
                 "Video on Creating RecyclerView Layout",
+                "Creating RecyclerView Layout",
                 "Video on Items and ViewHolders",
                 "Video on Exercise Items and ViewHolders",
+                "Create an Adapter",
                 "Video on RecyclerView and Adapters",
                 "Video on Creating an Adapter",
                 "Video on RecyclerView Layout Manager",
                 "Video on Wiring Up RecyclerView",
+                "Wiring Up RecyclerView",
                 "Video on Visualizing Recycling",
                 "Video on Responding to Item Clicks",
+                "Click Handling",
+                "Create a RecyclerView",
+                "Click Handling-2",
                 "Video on Recap-1",
                 "Group Discussion",
                 "Video on Intent Introduction",
@@ -80,40 +86,54 @@
                 "Video on Intents Framework",
                 "Video on Explicit Intent Toy App",
                 "Video on Creating an Activity",
+                "Create an Activity",
                 "Video on Creating an Intent",
+                "Start an Activity",
                 "Video on Passing Data Between Activities",
+                "Pass Data",
                 "Video on What are Implicit Intents",
                 "Video on Creating Implicit Intents",
-                "Assignment-1"
+                "Open a Web Page",
+                "Assignment-1",
+                "Assignment-2"
             ],
-            "learningObjectives": [
-            ],
-            "overview": [
-            ],
+            "learningObjectives": [],
+            "overview": [],
             "title": "Module-2"
         },
         {
             "activities": [
                 "Video on Understanding URIs",
                 "Video on Creating a Map Intent",
+                "Show a Map",
                 "Video on Sharing is Caring",
                 "Video on Media Types",
                 "Video on Implementing a Share Intent",
+                "Create a Share Intent",
+                "Add a New Activity",
+                "Send Data",
+                "Add Sharing",
                 "Video on Recap",
                 "Group Discussion",
                 "Video on Life Cycle Introduction",
                 "Video on Why We Need an Activity Lifecycle",
                 "Video on Android Activity Lifecycle",
                 "Video on Reto on the Android Activity Lifecycle",
+                "Lifecycle Events",
                 "Video on Why does this Happen",
                 "Video on Save and Restore Instance State",
                 "Video on Exercise Persisting Data",
                 "Video on App Termination",
+                "Fix the Lifecycle Display and Exercise",
                 "Video on Preparing for Termination",
                 "Video on Persisting Data With an Old Friend",
+                "Persisting Data Part Two",
                 "Video on AsyncTask and Loaders",
                 "Video on Leveraging Loaders",
+                "Add an AsyncTaskLoader",
                 "Video on Caching with Loaders",
+                "Caching with Loaders",
+                "AsyncTaskLoader in Sunshine",
                 "Video on Conclusion",
                 "Video on Preferences Introduction",
                 "Video on Introducing the Visualizer",
@@ -121,17 +141,21 @@
                 "Video on Data Persistence",
                 "Video on Preference Fragments",
                 "Video on Setting up the Settings Activity",
+                "Setup Settings",
                 "Video on Making a PreferenceFragment",
+                "Make a Preference Fragment",
                 "Video on Reading From SharedPreferences",
+                "Reading from SharedPreferences",
                 "Video on Use Resources",
+                "Use Resources",
                 "Video on Why Arent The Preferences Changing",
                 "Video on Preference Change Listener",
-                "Assignment-1"
+                "Preference Change Listener",
+                "Assignment-1",
+                "Assignment-2"
             ],
-            "learningObjectives": [
-            ],
-            "overview": [
-            ],
+            "learningObjectives": [],
+            "overview": [],
             "title": "Module-3"
         },
         {
@@ -187,91 +211,120 @@
                 "Assignment-1"
 
             ],
-            "learningObjectives": [
-            ],
-            "overview": [
-            ],
+            "learningObjectives": [],
+            "overview": [],
             "title": "Module-4"
         },
         {
             "activities": [
+                "Video on Introduction Background tasks",
+                "Video on Running in the Background",
+                "Video on Hydration Reminder",
+                "Video on Services",
+                "Video on Services vs. Loaders",
+                "Video on Starting Services",
+                "Video on Running Services in the Background",
+                "Video on Intent Services",
+                "Video on Starter Code",
+                "Video on Plan for Adding an IntentService",
+                "Video on Exercise Add an IntentService",
+                "Video on Notifications",
+                "Video on Notifications in Oreo",
+                "Video on Pending Intents",
+                "Video on Exercise Notifications",
+                "Video on Notification Actions",
+                "Video on Exercise Adding Actions to Notifications",
+                "Video on Foreground Services",
+                "Video on Quiz Application Priority",
+                "Video on Issuing Reminders",
+                "Video on Scheduling Jobs",
+                "Video on Exercise Adding a JobService",
+                "Video on Exercise Schedule with FirebaseJobDispatcher",
+                "Video on Broadcast Receivers",
+                "Video on Exercise Show When Charging",
+                "Video on Syncing Sunshine",
+                "Video on Conclusion",
+                "Group Discussion",
+                "Video on Introduction Completing the UI",
+                "Video on Views and View Groups",
+                "Video on Constraint Layout",
+                "Video on Design the Boarding Pass",
+                "Video on Adding Shapes and Images",
+                "Video on Adding Vector Images",
+                "Video on Data Binding",
+                "Video on Accessibility & Internationalization",
+                "Video on Responsive Design",
+                "Video on Introduction Polishing the UI",
+                "Video on Android Design Principles",
+                "Video on Toy App",
+                "Video on Visual Mocks and Keylines",
+                "Video on Color Guidelines",
+                "Video on Font Guidelines",
+                "Video on Changing Colors and Fonts",
+                "Video on Styles and Themes",
+                "Video on Style a Mail Layout",
+                "Video on Style Inheritance",
+                "Video on Designing for Multiple Screens",
+                "Video on Screen Density",
+                "Video on Different Layouts",
+                "Video on Resource Folder Qualifiers",
+                "Video on Smallest Width Qualifier",
+                "Video on Creating a Tablet Layout",
+                "Video on Touch Selectors",
+                "Video on Moving on to Sunshine",
+                "Video on Outro of all Outros",
+                "Assignment-1"
             ],
-            "learningObjectives": [
-            ],
-            "overview": [
-            ],
+            "learningObjectives": [],
+            "overview": [],
             "title": "Module-5"
         },
         {
-            "activities": [
-            ],
-            "learningObjectives": [
-            ],
-            "overview": [
-            ],
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
             "title": "Week-1 Exam"
         },
         {
-            "activities": [
-            ],
-            "learningObjectives": [
-            ],
-            "overview": [
-            ],
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
             "title": "Module-6"
         },
         {
-            "activities": [
-            ],
-            "learningObjectives": [
-            ],
-            "overview": [
-            ],
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
             "title": "Module-7"
         },
         {
-            "activities": [
-            ],
-            "learningObjectives": [
-            ],
-            "overview": [
-            ],
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
             "title": "Module-8"
         },
         {
-            "activities": [
-            ],
-            "learningObjectives": [
-            ],
-            "overview": [
-            ],
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
             "title": "Module-9"
         },
         {
-            "activities": [
-            ],
-            "learningObjectives": [
-            ],
-            "overview": [
-            ],
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
             "title": "Module-10"
         },
         {
-            "activities": [
-            ],
-            "learningObjectives": [
-            ],
-            "overview": [
-            ],
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
             "title": "Module-11"
         },
         {
-            "activities": [
-            ],
-            "learningObjectives": [
-            ],
-            "overview": [
-            ],
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
             "title": "Week-2 Exam"
         }
     ]

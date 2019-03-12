@@ -1,0 +1,35 @@
+[
+	{
+	"title":"Make a Preference Fragment",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise, you will be creating a SettingsFragment."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["02-Exercise-MakeAPreferenceFragment.zip"]
+		},
+		{
+			"text": "Complete these TODOs."
+		},
+		{
+				"image": {
+					"imageSRC": "image-11.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

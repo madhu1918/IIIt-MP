@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Schedule with FirebaseJobDispatcher",
+		"activityType":"video",
+		"videoURL":"25. Exercise: Schedule with FirebaseJobDispatcher.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Schedule with FirebaseJobDispatcher"
+			}
+		
+		]
+	}
+]
+
+

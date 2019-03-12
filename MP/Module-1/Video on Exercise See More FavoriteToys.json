@@ -5,14 +5,29 @@
 		"videoURL":"17. Exercise: See More FavoriteToys.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise See More FavoriteToys"
+	"title":"Exercise See More FavoriteToys",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-AddScrolling.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-2.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

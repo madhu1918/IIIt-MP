@@ -1,0 +1,35 @@
+[
+	{
+	"title":"Persisting Data Part Two",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Let's persist data in our GitHub query application!"
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-SaveResults.zip"]
+		},
+		{
+			"text": "Complete these TODOs."
+		},
+		{
+				"image": {
+					"imageSRC": "image-6.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Notifications in Oreo",
+		"activityType":"video",
+		"videoURL":"15. Notifications in Oreo.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Notifications in Oreo"
+			}
+		
+		]
+	}
+]
+
+

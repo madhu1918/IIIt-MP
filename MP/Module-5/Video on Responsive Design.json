@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Responsive Design",
+		"activityType":"video",
+		"videoURL":"16. Responsive Design.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Responsive Design"
+			}
+		
+		]
+	}
+]
+
+

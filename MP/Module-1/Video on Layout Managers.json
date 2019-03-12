@@ -3,16 +3,6 @@
 		"title":"Video on Layout Managers",
 		"activityType":"video",
 		"videoURL":"21. Layout Managers.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Layout Managers"
-			}
-		
-		]
 	}
 ]
 

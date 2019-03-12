@@ -1,0 +1,35 @@
+[
+	{
+	"title":"Preference Change Listener",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-PreferenceChangeListener.zip"]
+		},
+		{
+			"text": "In this exercise, you will get to reflect any changes that happen in the Preferences onto the app"
+		},
+		{
+			"text": "Now it's your turn to extend the SharedPreference Change Listener and override its methods to update preference changes."
+		},
+		{
+				"image": {
+					"imageSRC": "image-14.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

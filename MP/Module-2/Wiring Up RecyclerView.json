@@ -1,0 +1,35 @@
+[
+	{
+	"title":"Wiring Up RecyclerView",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this Exercise, you will get to use the adapter and connect it with the recyclerview."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-WiringUpRecyclerView.zip"]
+		},
+		{
+			"text": "Complete these TODOs."
+		},
+		{
+				"image": {
+					"imageSRC": "image-4.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

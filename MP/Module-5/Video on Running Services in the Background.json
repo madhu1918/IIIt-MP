@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Running Services in the Background",
+		"activityType":"video",
+		"videoURL":"8. Running Services in the Background.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Running Services in the Background"
+			}
+		
+		]
+	}
+]
+
+

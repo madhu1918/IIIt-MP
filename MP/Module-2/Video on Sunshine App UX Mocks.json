@@ -3,16 +3,6 @@
 		"title":"Video on Sunshine App UX Mocks",
 		"activityType":"video",
 		"videoURL":"2. Sunshine App UX Mocks.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Sunshine App UX Mocks"
-			}
-		
-		]
 	}
 ]
 

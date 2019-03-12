@@ -3,16 +3,6 @@
 		"title":"Video on Introduction to Project Sunshine",
 		"activityType":"video",
 		"videoURL":"1. Introduction to Project Sunshine.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Introduction to Project Sunshine"
-			}
-		
-		]
 	}
 ]
 

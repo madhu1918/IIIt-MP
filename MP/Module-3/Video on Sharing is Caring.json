@@ -3,16 +3,6 @@
 		"title":"Video on Sharing is Caring",
 		"activityType":"video",
 		"videoURL":"18. Sharing is Caring!.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Sharing is Caring"
-			}
-		
-		]
 	}
 ]
 

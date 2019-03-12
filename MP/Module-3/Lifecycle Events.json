@@ -1,0 +1,35 @@
+[
+	{
+	"title":"Lifecycle Events",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "We have two toy apps for this lesson. The first one is a logger to help you understand the activity lifecycle. Open the LogLifecycle exercise using the link below. You're going to follow the TODOs to add code to the MainActivity, and use the logAndAppend functions to log onCreate, onStart, onResume, onPause, onStop, onRestart and onDestroy."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-LogLifecycle.zip"]
+		},
+		{
+			"text": "Complete these TODOs."
+		},
+		{
+				"image": {
+					"imageSRC": "image-5.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

@@ -2,17 +2,7 @@
 	{
 		"title":"Video on Why ViewHolders",
 		"activityType":"video",
-		"videoURL":"5. Why ViewHolders?.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Why ViewHolders"
-			}
-		
-		]
+		"videoURL":"5. Why ViewHolders.mp4"
 	}
 ]
 

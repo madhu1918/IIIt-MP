@@ -3,16 +3,6 @@
 		"title":"Video on Creating Implicit Intents",
 		"activityType":"video",
 		"videoURL":"12. Creating Implicit Intents.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Creating Implicit Intents"
-			}
-		
-		]
 	}
 ]
 

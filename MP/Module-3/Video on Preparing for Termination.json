@@ -3,16 +3,6 @@
 		"title":"Video on Preparing for Termination",
 		"activityType":"video",
 		"videoURL":"11. Preparing for Termination.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Preparing for Termination"
-			}
-		
-		]
 	}
 ]
 

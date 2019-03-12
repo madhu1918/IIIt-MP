@@ -3,16 +3,6 @@
 		"title":"Video on Coding, GitHub and Flow",
 		"activityType":"video",
 		"videoURL":"5. Coding, GitHub and Flow.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Coding, GitHub and Flow"
-			}
-		
-		]
 	}
 ]
 

@@ -3,16 +3,6 @@
 		"title":"Video on Creating RecyclerView Layout",
 		"activityType":"video",
 		"videoURL":"8. Creating RecyclerView Layout.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Creating RecyclerView Layout"
-			}
-		
-		]
 	}
 ]
 

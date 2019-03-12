@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Notifications",
+		"activityType":"video",
+		"videoURL":"14. Notifications.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Notifications"
+			}
+		
+		]
+	}
+]
+
+

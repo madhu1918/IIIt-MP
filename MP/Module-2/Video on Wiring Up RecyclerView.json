@@ -3,16 +3,6 @@
 		"title":"Video on Wiring Up RecyclerView",
 		"activityType":"video",
 		"videoURL":"17. Wiring Up RecyclerView.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Wiring Up RecyclerView"
-			}
-		
-		]
 	}
 ]
 

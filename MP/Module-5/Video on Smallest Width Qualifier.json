@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Smallest Width Qualifier",
+		"activityType":"video",
+		"videoURL":"19. Smallest Width Qualifier.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Smallest Width Qualifier"
+			}
+		
+		]
+	}
+]
+
+

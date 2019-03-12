@@ -1,0 +1,47 @@
+[
+	{
+	"title":"Update Sunshine Layout and  Add Scrolling Weather",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Now that you've explored creating simple layouts in the FavoriteToys app, it's time to start working on our main app for the course, sunshine.<br>During this exercise, you'll set up Sunshine's layout by modifying the boilerplate android code."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-CreateLayout.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-3.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "Add Scrolling Weather :<br>Add Scrolling Weather Exercise<br>Time to make Sunshine contain a scrolling list of weather forecasts. In this exercise, you'll display some dummy weather data in a ScrollView."
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-AddWeatherList.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-4.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

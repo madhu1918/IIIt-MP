@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Scheduling Jobs",
+		"activityType":"video",
+		"videoURL":"23. Scheduling Jobs.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Scheduling Jobs"
+			}
+		
+		]
+	}
+]
+
+

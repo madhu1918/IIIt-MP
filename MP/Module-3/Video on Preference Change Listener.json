@@ -3,16 +3,6 @@
 		"title":"Video on Preference Change Listener",
 		"activityType":"video",
 		"videoURL":"17. Preference Change Listener.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Preference Change Listener"
-			}
-		
-		]
 	}
 ]
 

@@ -1,0 +1,35 @@
+[
+	{
+	"title":"Use Resources",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise, you will get to follow the best practice of using string and boolean recourses whenever appropriate."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-UseResources.zip"]
+		},
+		{
+			"text": "Now it's your turn to replace any hard coded value with the appropriate resource."
+		},
+		{
+				"image": {
+					"imageSRC": "image-13.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

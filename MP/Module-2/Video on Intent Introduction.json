@@ -3,16 +3,6 @@
 		"title":"Video on Intent Introduction",
 		"activityType":"video",
 		"videoURL":"1. Introduction intents.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Intent Introduction"
-			}
-		
-		]
 	}
 ]
 

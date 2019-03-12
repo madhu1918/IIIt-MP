@@ -1,0 +1,26 @@
+[
+	{
+	"title":"Fix the Lifecycle Display and Exercise",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-FixLifecycleDisplayBug.zip"]
+		},
+		{
+			"text": "Verify that onStop and onDestroy now work on rotate"
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

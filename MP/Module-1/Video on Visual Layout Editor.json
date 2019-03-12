@@ -3,16 +3,6 @@
 		"title":"Video on Visual Layout Editor",
 		"activityType":"video",
 		"videoURL":"18. Visual Layout Editor.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Visual Layout Editor"
-			}
-		
-		]
 	}
 ]
 

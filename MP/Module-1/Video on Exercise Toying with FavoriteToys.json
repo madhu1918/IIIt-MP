@@ -5,14 +5,26 @@
 		"videoURL":"16.Exercise: Toying with FavoriteToys.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Toying with FavoriteToys"
+	"title":"Exercise Toying with FavoriteToys",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-DisplayToyList.zip"]
+		},
+		{
+			"text": "Open Exercise 2 and complete all the TODOs. We really do want to do this in order:<br><br>1. Add am ID to the TextView in the layout<br>2. Find the ID for the textview in the MainActivity.java source<br>3. Append the content of out TuyNames string array to the TextView, followed by three line separators."
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

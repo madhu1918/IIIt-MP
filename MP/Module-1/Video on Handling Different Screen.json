@@ -3,16 +3,6 @@
 		"title":"Video on Handling Different Screen",
 		"activityType":"video",
 		"videoURL":"19. Handling Different Screen.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Handling Different Screen"
-			}
-		
-		]
 	}
 ]
 

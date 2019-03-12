@@ -2,17 +2,7 @@
 	{
 		"title":"Video on Why RecyclerView",
 		"activityType":"video",
-		"videoURL":"2. Why RecyclerView?.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Why RecyclerView"
-			}
-		
-		]
+		"videoURL":"2. Why RecyclerView.mp4"
 	}
 ]
 

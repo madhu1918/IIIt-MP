@@ -5,14 +5,26 @@
 		"videoURL":"10. App Termination.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on App Termination"
+	"title":"Persisting Data",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Complete the TODOs for the second exercise."
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-PersistData.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

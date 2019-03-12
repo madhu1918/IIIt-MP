@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Font Guidelines",
+		"activityType":"video",
+		"videoURL":"8. Font Guidelines.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Font Guidelines"
+			}
+		
+		]
+	}
+]
+
+

@@ -3,16 +3,6 @@
 		"title":"Video on Use Resources",
 		"activityType":"video",
 		"videoURL":"14. Use Resources.mp4.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Use Resources"
-			}
-		
-		]
 	}
 ]
 

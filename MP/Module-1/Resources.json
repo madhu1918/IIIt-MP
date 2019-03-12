@@ -1,0 +1,25 @@
+[
+	{
+	"title":"Resources",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "<b>What is the res Directory?</b><br>The res directory is where you should put things such as images, strings, and layouts. It's included in every Android project, and you can see it in Android Studio here:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-6.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "Inside of the res directory, are sub folder for the following types of resources. You may have a subset of these directories, depending on the types of resources you're using in your app. "
+		},
+		{
+			"text": "<b>Why Resources</b><br>You should always keep things like images and layouts separate in the res folder. Keeping resource files and values independent helps you easily maintain them if you need to update, say, all your button images to match a new style. The Android Framework also easily allows for alternative resources that support specific device configurations such as different languages or screen sizes. Providing a customized experience for users from different locations or on different devices becomes increasingly important as more of the world comes online and more devices come on the market. We will see how to provide alternate resources for different configurations and locals later in this course."
+		}
+	]
+	}
+]
+
+

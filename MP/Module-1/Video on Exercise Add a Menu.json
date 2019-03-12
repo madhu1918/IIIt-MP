@@ -5,14 +5,32 @@
 		"videoURL":"7. Exercise: Add a Menu.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Add a Menu"
+	"title":"Exercise Add a Menu",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Now it's your turn. Add the Menu to \"Github Query\" following all the TODOs in the exercise. Have fun!"
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-AddMenu.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-7.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

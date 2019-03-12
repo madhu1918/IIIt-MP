@@ -5,14 +5,32 @@
 		"videoURL":"23. Exercise: Menus.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Menus"
+	"title":"Exercise Menus",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Add a menu to Sunshine"
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-Menus.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-13.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

@@ -5,14 +5,35 @@
 		"videoURL":"11. Exercise: Items and ViewHolders.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Items and ViewHolders"
+	"title":"Exercise: Items and ViewHolders",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Adding Items to RecyclerView<br>In this Exercise, you will get to add view items to the recyclerview and use view holders to cache them."
+		},
+		{
+			"text": "<br><br>Exercise Code"
+		},
+		{
+			"attachment": ["Exercise-ViewHolder.zip"]
+		},
+		{
+			"text": "Complete these TODOs."
+		},
+		{
+				"image": {
+					"imageSRC": "image-2.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

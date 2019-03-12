@@ -5,14 +5,32 @@
 		"videoURL":"16. Exercise: Create an AsyncTask.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Create an AsyncTask"
+	"title":"Exercise Create an AsyncTask",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Now it's your turn! Follow the TODOS. But it will crash when you run it."
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-CreateAsyncTask.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-10.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

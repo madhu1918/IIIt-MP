@@ -3,16 +3,6 @@
 		"title":"Video on Passing Data Between Activities",
 		"activityType":"video",
 		"videoURL":"9.Passing Data Between Activities.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Passing Data Between Activities"
-			}
-		
-		]
 	}
 ]
 

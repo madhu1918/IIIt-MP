@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Resource Folder Qualifiers",
+		"activityType":"video",
+		"videoURL":"18. Resource Folder Qualifiers.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Resource Folder Qualifiers"
+			}
+		
+		]
+	}
+]
+
+

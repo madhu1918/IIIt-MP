@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Exercise Show When Charging",
+		"activityType":"video",
+		"videoURL":"27. Exercise: Show When Charging.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Exercise Show When Charging"
+			}
+		
+		]
+	}
+]
+
+

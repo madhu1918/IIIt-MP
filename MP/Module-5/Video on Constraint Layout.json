@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Constraint Layout",
+		"activityType":"video",
+		"videoURL":"4. Constraint Layout.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Constraint Layout"
+			}
+		
+		]
+	}
+]
+
+

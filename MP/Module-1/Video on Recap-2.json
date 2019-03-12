@@ -3,16 +3,6 @@
 		"title":"Video on Recap-2",
 		"activityType":"video",
 		"videoURL":"26. Recap-2.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Recap-2"
-			}
-		
-		]
 	}
 ]
 

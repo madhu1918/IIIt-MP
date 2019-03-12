@@ -3,16 +3,6 @@
 		"title":"Video on Responding to Item Clicks",
 		"activityType":"video",
 		"videoURL":"20. Responding to Item Clicks.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Responding to Item Clicks"
-			}
-		
-		]
 	}
 ]
 

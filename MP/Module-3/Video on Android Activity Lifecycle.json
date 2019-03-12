@@ -3,16 +3,6 @@
 		"title":"Video on Android Activity Lifecycle",
 		"activityType":"video",
 		"videoURL":"3. Android Activity Lifecycle.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Android Activity Lifecycle"
-			}
-		
-		]
 	}
 ]
 

@@ -1,0 +1,13 @@
+[{
+	"title": "Assignment-2",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":5,
+		"graded": true,
+		"questionText": [{
+				"text": "Provide the ENB document link"
+			}
+		]
+	}]
+}]

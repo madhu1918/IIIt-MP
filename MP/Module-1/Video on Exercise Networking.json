@@ -5,14 +5,32 @@
 		"videoURL":"22. Exercise- Networking.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Networking"
+	"title":"Exercise Networking",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this Exercise, you will get to apply what you've learned on Sunshine to add an async task and permissions to load weather data."
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-Networking.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-12.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

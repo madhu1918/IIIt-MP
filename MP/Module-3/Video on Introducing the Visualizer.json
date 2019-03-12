@@ -3,16 +3,6 @@
 		"title":"Video on Introducing the Visualizer",
 		"activityType":"video",
 		"videoURL":"2. Introducing the Visualizer.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Introducing the Visualizer"
-			}
-		
-		]
 	}
 ]
 

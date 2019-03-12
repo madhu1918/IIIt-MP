@@ -3,16 +3,6 @@
 		"title":"Video on Permissions",
 		"activityType":"video",
 		"videoURL":"10. Permissions.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Permissions"
-			}
-		
-		]
 	}
 ]
 

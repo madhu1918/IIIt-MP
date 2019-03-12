@@ -1,0 +1,38 @@
+[
+	{
+	"title":"Create a RecyclerView",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this Exercise, you will get to apply what you've learned on Sunshine."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-RecyclerView.zip"]
+		},
+		{
+			"text": "There are a lot of TODOs to help you with this complex task. You're going to create the RecyclerView and adapter for Sunshine."
+		},
+		{
+			"text": "Complete these TODOs."
+		},
+		{
+				"image": {
+					"imageSRC": "image-6.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

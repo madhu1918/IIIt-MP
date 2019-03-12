@@ -3,16 +3,6 @@
 		"title":"Video on RecyclerView and Adapters",
 		"activityType":"video",
 		"videoURL":"12. RecyclerView and Adapters.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on RecyclerView and Adapters"
-			}
-		
-		]
 	}
 ]
 

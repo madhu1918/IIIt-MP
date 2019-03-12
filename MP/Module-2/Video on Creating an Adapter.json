@@ -3,16 +3,6 @@
 		"title":"Video on Creating an Adapter",
 		"activityType":"video",
 		"videoURL":"14. Creating an Adapter.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Creating an Adapter"
-			}
-		
-		]
 	}
 ]
 
