@@ -1,0 +1,37 @@
+[
+	{
+	"title":"Setup QuizExample",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "<b>Before you start</b><br>Before you move on to building your QuizExample app, please do the following:<ol><li><b>Download the DroidTermsExample App -</b> You need to have this app on your phone and you need to run it once. By running this app, your phone will store word and definition data locally on your phone. To get the app, you can download the app from <a href=\"https://drive.google.com/file/d/1eaJyDtMs-ghNKE7lqKn4YjeaVDo49gtD/view\">here</a></li><li><b>Review the Following Concepts -</b> For this lesson you will need to understand the following concepts from the SQLiteDatabase lesson:<ul><li>Contract Class</li><li>Projection, selection, selection args, sort order</li><li>Cursor Class</li></ul></li></ol>"
+		},
+		{
+			"text": "<br><b>Explanation of QuizExample</b><br><br>Right now, QuizExample is a simple app that switches between two states. The changes made were:<ol><li>Include a library named droidtermsprovider that has a class in it DroidTermsExampleContract</li><li>Includes a layout for displaying the word and definition data with a button</li><li>Includes strings for the buttons</li><li>Includes two states: STATE_HIDDEN and STATE_SHOWN and a variable called mCurrentStatewhich keeps track of the current state</li><li>Includes a method called onButtonClick which is triggered when the button is clicked and toggles between the two states</li><li>Includes two mostly empty helper methods nextWord and showDefinition that switch button text between two states.</li></ol>You’ll use the code that has to do with state to keep track of whether the definition is showing or not."
+		},
+		{
+			"text": "<br><b>The Big Picture</b><br>Right now your understanding of a ContentProvider is this:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-9.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "The fuller diagram includes the concepts shown here:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-10.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "<b>General Steps for Using a ContentProvider</b><br>You will take the following steps:<ol><li>Get permission to use the ContentProvider.</li><li>Get the ContentResolver</li><li>Pick one of four basic actions on the data: query, insert, update, delete</li><li>Identify the data you are reading or manipulating to create a URI</li><li>In the case of reading from the ContentProvider, display the information in the UI"
+		}
+	]
+	}
+]
+
+

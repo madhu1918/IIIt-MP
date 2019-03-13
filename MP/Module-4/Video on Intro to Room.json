@@ -3,16 +3,6 @@
 		"title":"Video on Intro to Room",
 		"activityType":"video",
 		"videoURL":"3. Intro to Room.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Intro to Room"
-			}
-		
-		]
 	}
 ]
 

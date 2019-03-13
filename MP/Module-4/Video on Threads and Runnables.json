@@ -3,16 +3,6 @@
 		"title":"Video on Threads and Runnables",
 		"activityType":"video",
 		"videoURL":"12. Threads and Runnables.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Threads and Runnables"
-			}
-		
-		]
 	}
 ]
 

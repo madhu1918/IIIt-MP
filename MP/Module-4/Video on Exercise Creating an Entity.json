@@ -5,14 +5,23 @@
 		"videoURL":"4. Exercise: Creating an Entity.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Creating an Entity"
+	"title":"Exercise Creating an Entity",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-CreateEntity.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

@@ -3,16 +3,6 @@
 		"title":"Video on The Content Resolver",
 		"activityType":"video",
 		"videoURL":"8. The Content Resolver.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on The Content Resolver"
-			}
-		
-		]
 	}
 ]
 

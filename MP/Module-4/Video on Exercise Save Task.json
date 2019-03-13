@@ -5,14 +5,23 @@
 		"videoURL":"10. Exercise: Save Task.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Save Task"
+	"title":"Exercise Save Task",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-SaveTaskInDatabaseFromAddTaskActivity.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

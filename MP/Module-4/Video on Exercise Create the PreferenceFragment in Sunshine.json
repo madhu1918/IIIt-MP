@@ -5,14 +5,32 @@
 		"videoURL":"34. Exercise: Create the PreferenceFragment in Sunshine.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Create the PreferenceFragment in Sunshine"
+	"title":"Exercise Create the PreferenceFragment in Sunshine",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["02-Exercise-SettingsFragment.zip"]
+		},
+		{
+			"text": "Follow the steps Asser gave and the TODOs in the code to create the Settings Fragment. When you're done, your app should:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-7.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

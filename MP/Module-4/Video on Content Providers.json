@@ -3,16 +3,6 @@
 		"title":"Video on Content Providers",
 		"activityType":"video",
 		"videoURL":"2. Content Providers.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Content Providers"
-			}
-		
-		]
 	}
 ]
 

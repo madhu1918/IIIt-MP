@@ -3,16 +3,6 @@
 		"title":"Video on Uniform Resource Identifier",
 		"activityType":"video",
 		"videoURL":"10. Uniform Resource Identifier.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Uniform Resource Identifier"
-			}
-		
-		]
 	}
 ]
 

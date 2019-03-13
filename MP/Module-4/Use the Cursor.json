@@ -1,0 +1,42 @@
+[
+	{
+	"title":"Use the Cursor",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Use the Cursor and Finish the App"
+		},
+		{
+			"text": "Alright, it's time to finish this app. You'll do this by displaying the data from the Cursor. The layout has a button, which triggers the onButtonClick method. It switches back and forth between the “Show Definition” and “Next Word” states."
+		},
+		{
+			"text": "<br>Finish the nextWord and showDefinition methods so that when the definition is shown, it reveals the definition of the current word and when the “next word” button is clicked, it hides the definition and shows the next word. Throughout the code are TODO notes to help guide you."
+		},
+		{
+			"text": "<br>The code I just showed for printing out all words and definitions is below, available for you to modify:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-12.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-FinishQuizExample.zip"]
+		}
+
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

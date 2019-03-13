@@ -5,14 +5,35 @@
 		"videoURL":"32. Exercise: Create the SettingsActivity in Sunshine.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Create the SettingsActivity in Sunshine"
+	"title":"Exercise Create the SettingsActivity in Sunshine",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise, you'll create a blank SettingsActivity and open it via Sunshine's ActionBar menu."
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-LaunchSettingsActivity.zip"]
+		},
+		{
+			"text": "Complete the following steps to create and link the navigation for a settings activity."
+		},
+		{
+				"image": {
+					"imageSRC": "image-6.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

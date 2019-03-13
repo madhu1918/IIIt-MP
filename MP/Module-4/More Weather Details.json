@@ -1,0 +1,42 @@
+[
+	{
+	"title":"More Weather Details",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise, you'll set up the Details Activity to use CursorLoaders (just like we did with the Forecast Activity) to display more weather information in the Detail Layout."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Sunshine05-Exercise-MoreDetails.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-17.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "The new Detail Layout should include a text view for each of the following in a Linear Layout:<ul><li>The selected day's date</li><li>The selected day's weather description</li><li>The selected day's high temperature</li><li>The selected day's low temperature</li><li>The selected day's humidity</li><li>The selected day's pressure</li><li>The selected day's wind information And then update the DetailActivity to find those views by ID and initialize them in onCreate</li></ul>Create a projection array of Strings and indices to help query weather details for that date!<br><br>Then set the DetailActivity class to implement LoaderManager.LoaderCallbacks and override the appropriate methods:<ul><li><b>onCreateLoader:</b> Checks if the loader requested is our detail loader, return the appropriate CursorLoader.</li><li><b>onLoadFinished:</b> Gets all the weather detail information from the cursor and displays them in the appropriate views.</li><li><b>onLoaderReset:</b> Don't do anything in it yet</li></ul><br>Initialize the loader in DetailActivity's onCreate<br><br>Then Update the ForecastAdapterOnClickHandler and refactor onClick to accept a long as its parameter rather than a String and in onClick instead of passing the String for the clicked item, pass the date from the cursor.<br><br>And finally refactor MainActivity's onClick to build a URI for the clicked date and and pass it to the DetailActivty with the Intent using setData.<br><br>Change the Detail Activity to use a Cursor Loader to query and display more weather details"
+		},
+		{
+				"image": {
+					"imageSRC": "image-18.png",
+					"imageName": ""
+				}
+		}
+
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

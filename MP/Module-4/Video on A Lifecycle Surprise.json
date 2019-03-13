@@ -3,16 +3,6 @@
 		"title":"Video on A Lifecycle Surprise",
 		"activityType":"video",
 		"videoURL":"24. A Lifecycle Surprise.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on A Lifecycle Surprise"
-			}
-		
-		]
 	}
 ]
 

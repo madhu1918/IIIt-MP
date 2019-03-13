@@ -3,16 +3,6 @@
 		"title":"Video on Four Basic Operations",
 		"activityType":"video",
 		"videoURL":"9. Four Basic Operations.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Four Basic Operations"
-			}
-		
-		]
 	}
 ]
 

@@ -3,16 +3,6 @@
 		"title":"Video on Content Provider Advantages",
 		"activityType":"video",
 		"videoURL":"3. Content Provider Advantages.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Content Provider Advantages"
-			}
-		
-		]
 	}
 ]
 

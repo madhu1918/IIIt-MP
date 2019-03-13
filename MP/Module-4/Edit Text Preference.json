@@ -1,0 +1,32 @@
+[
+	{
+	"title":"Edit Text Preference",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise, you will get to add a new preference that will accept a numerical value from the user and use that as a size multiplier to scale the shapes in our Visualizer app."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-EditTextPreference.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-5.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

@@ -3,16 +3,6 @@
 		"title":"Video on ToDo List App",
 		"activityType":"video",
 		"videoURL":"2. ToDo List App.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on ToDo List App"
-			}
-		
-		]
 	}
 ]
 

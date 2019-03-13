@@ -3,16 +3,6 @@
 		"title":"Video on LiveData and the Observer Pattern",
 		"activityType":"video",
 		"videoURL":"18. LiveData and the Observer Pattern.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on LiveData and the Observer Pattern"
-			}
-		
-		]
 	}
 ]
 

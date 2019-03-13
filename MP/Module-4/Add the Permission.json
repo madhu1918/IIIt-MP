@@ -1,0 +1,35 @@
+[
+	{
+	"title":"Add the Permission",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Here is the permission to add for accessing and reading from the DroidTermsExample content provider:<br><br><uses-permission android:name=\"com.example.udacity.droidtermsexample.TERMS_READ\" />"
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-AddTheContentProviderPermission.zip"]
+		},
+		{
+			"text": "Finish step one and add the correct permission for the content provider."
+		},
+		{
+				"image": {
+					"imageSRC": "image-11.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

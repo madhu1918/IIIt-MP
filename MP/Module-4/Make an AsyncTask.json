@@ -1,0 +1,33 @@
+[
+	{
+	"title":"Make an AsyncTask",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Optional Exercise Code"
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["Exercise-AddAsyncTaskToRetrieveCursor.zip"]
+		},
+		{
+			"text": "If you’d like to do it yourself, the end goal is to make an AsyncTask that loads the data on a background thread in a Cursor object. It then updates a variable called mData in the MainActivity to store the returned Cursor."
+		},
+		{
+			"text": "Steps to get the data from the Content Provider and save it into an instance variable<ol><li>Create an AsyncTask with the following generic types <Void, Void, Cursor></li><li>In the doInBackground method, write the code to access the DroidTermsExample provider and return the Cursor object.</li><li>Create an instance variable Cursor mData.</li><li>In the onPostExecute method, store the Cursor object in mData.</li><li>Create and execute the AsyncTask in onCreate.</li>"
+		}
+
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

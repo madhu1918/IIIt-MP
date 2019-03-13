@@ -3,16 +3,6 @@
 		"title":"Video on Should it be a Setting",
 		"activityType":"video",
 		"videoURL":"31. Should it be a Setting.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Should it be a Setting"
-			}
-		
-		]
 	}
 ]
 

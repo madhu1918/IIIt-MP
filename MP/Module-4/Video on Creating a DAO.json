@@ -3,16 +3,6 @@
 		"title":"Video on Creating a DAO",
 		"activityType":"video",
 		"videoURL":"6. Creating a DAO.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Creating a DAO"
-			}
-		
-		]
 	}
 ]
 

@@ -3,16 +3,6 @@
 		"title":"Video on Re-query for nothing",
 		"activityType":"video",
 		"videoURL":"17. Re-query for nothing.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Re-query for nothing"
-			}
-		
-		]
 	}
 ]
 

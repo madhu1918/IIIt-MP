@@ -3,16 +3,6 @@
 		"title":"Video on Content Provider Permissions",
 		"activityType":"video",
 		"videoURL":"6. Content Provider Permissions.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Content Provider Permissions"
-			}
-		
-		]
 	}
 ]
 

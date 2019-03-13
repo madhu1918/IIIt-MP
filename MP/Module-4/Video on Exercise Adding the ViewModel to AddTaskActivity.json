@@ -5,14 +5,23 @@
 		"videoURL":"23. Exercise: Adding the ViewModel to AddTaskActivity.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Adding the ViewModel to AddTaskActivity"
+	"title":"Exercise Adding the ViewModel to AddTaskActivity",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-AddViewModelToAddTaskActivity.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

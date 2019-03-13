@@ -3,16 +3,6 @@
 		"title":"Video on Add Two More Checkboxes",
 		"activityType":"video",
 		"videoURL":"19. Add Two More Checkboxes.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Add Two More Checkboxes"
-			}
-		
-		]
 	}
 ]
 

@@ -5,14 +5,23 @@
 		"videoURL":"11. Exercise: Query all Tasks in MainActivity.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Query all Tasks in MainActivity"
+	"title":"Exercise Query all Tasks in MainActivity",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-RetrieveTasksFromDatabaseAtMainActivity.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 
