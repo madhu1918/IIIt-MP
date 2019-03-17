@@ -5,14 +5,50 @@
 		"videoURL":"23. Scheduling Jobs.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Scheduling Jobs"
+	"title":"FirebaseJobDispatcher Sample Code",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+				"image": {
+					"imageSRC": "image-6.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "For more information, check out the <a href=\"https://github.com/firebase/firebase-jobdispatcher-android\">FirebaseJobDispatcher README.</a> This also includes more sample code."
+		},
+		{
+			"text": "<b>What is Google Play Services</b><br>You might be wondering what's up with the GooglePlayDriver. FirebaseJobDispatcher has a dependency on Google Play Services, which is why you need a GooglePlayDriver. So what is Google Play Services?<br><br> <a href=\"https://developers.google.com/android/guides/overview\">Google Play Services</a> is <a href=\"https://play.google.com/store/apps/details?id=com.google.android.gms&hl=en\">app</a> that Google maintains which comes pre-installed on and runs in the background on many, many phones. It is essentially a collection of Services that your app can use to leverage the power of Google products. If the user has the Google Play Services apk installed (and many do) you can use Google Play Services Libraries to easily do things like use the Places API to know where your user is or integrate Google sign in. FirebaseJobDispatcher is one of the many services you can take advantage of via Google Play Services.<br><br>Google choose to distribute these services as an installable apk so that updates to the services are not dependent on carrier or OEM system image updates. In general, devices running Android 2.3 (API level 9) or later and have the Google Play services app installed receive updates within a few days.<br><br><b>Google Play Services Udacity Courses</b><br><br>There are several Udacity courses on how to use Google Play Services features, such as Location services and Maps.<ul><li> <a href=\"https://www.udacity.com/course/google-location-services-on-android--ud876-1\">Google Location Services</a></li><li><a href=\"https://in.udacity.com/course/google-analytics-for-android--ud876-2\">Google Analytics</a></li><li><a href=\"https://in.udacity.com/course/monetize-your-android-app-with-ads--ud876-3\">Google AdMob</a></li><li><a href=\"https://in.udacity.com/course/add-google-maps-to-your-android-app--ud876-4\">Google Maps</a>"
+		},
+		{
+			"text": "<b>Installing Google Play Services</b><br>To test your app when using the Google Play services SDK, you must use either:<ul><li>A compatible Android device that runs Android 2.3 or higher and includes Google Play Store.</li><li>The Android emulator with an AVD that runs the Google APIs platform based on Android 4.2.2 or higher.</li></ul>You can install Google Play Services on your physical device via the  <a href=\"https://play.google.com/store/apps/details?id=com.google.android.gms&hl=en\">Google Play Store</a> <br>To get Google Play Services on an emulator, you first need to make sure you have Google Play Services installed in the SDK manager:" 
+		},
+		{
+				"image": {
+					"imageSRC": "image-7.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "Then you need to create an emulator that uses the Google APIs:" 
+		},
+		{
+				"image": {
+					"imageSRC": "image-8.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "<b>What if Google Play Services is not Available?</b><br><br>In this class we are only covering FirebaseJobDispatcher. Depending on where you're located and who your users are, you might not have access to the Play Store to download Google Play Services. If this is the case, you can use an alternative to FirebaseJobDispatcher known as <a href=\"https://github.com/evernote/android-job\">android-job</a> Android-job is very similar to FirebaseJobDispatcher, but it is not a Google maintained repository and it only offers compatibility back to API 14. The FirebaseJobDispatcher documentation contains a <a href=\"https://github.com/firebase/firebase-jobdispatcher-android#comparison-to-other-libraries\">comparison table.</a> hat you can use when making this decision." 
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

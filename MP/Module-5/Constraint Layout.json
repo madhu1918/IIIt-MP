@@ -1,0 +1,32 @@
+[
+	{
+	"title":"Constraint Layout",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise, you will get to create the boarding pass design using a constraint layout."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["T01-Exercise-ConstraintLayout.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-24.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

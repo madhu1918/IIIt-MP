@@ -5,14 +5,35 @@
 		"videoURL":"10. Data Binding.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Data Binding"
+	"title":"Data Binding",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise, you will get to link your UI with actual data using data-binding"
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["T02-Exercise-DataBinding.zip"]
+		},
+		{
+			"text": "Now it's your turn to implement the data binding classes and link the UI components with actual data values."
+		},
+		{
+				"image": {
+					"imageSRC": "image-25.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

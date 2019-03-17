@@ -5,14 +5,32 @@
 		"videoURL":"17. Exercise: Notifications.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Notifications"
+	"title":"Notifications",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise you'll create a button that triggers a notification."
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-CreateNotification.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-4.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

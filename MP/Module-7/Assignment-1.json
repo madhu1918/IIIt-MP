@@ -1,0 +1,13 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":5,
+		"graded": true,
+		"questionText": [{
+				"text": "In the ENB provide the Screens you have completed so far for your project and shopping cart application.<br>Submit the link of ENB."
+			}
+		]
+	}]
+}]

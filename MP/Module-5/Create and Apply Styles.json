@@ -1,0 +1,32 @@
+[
+	{
+	"title":"Create and Apply Styles",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Create and Apply Styles<br>Create and apply the following four styles to Sunshine layouts:<br>An action bar style that shows a Sunshine logo instead of a title; named \"ActionBar.Solid.Sunshine.NoTitle\"<br>A style for MainActivity called AppTheme.Forecast that uses the custom ActionBar style<br>A DetailLabel style that contains all the common style attributes<br>An ExtraWeatherMeasurement style that contains all the repeated style attributes"
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["S2-Exercise-Styles.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-41.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

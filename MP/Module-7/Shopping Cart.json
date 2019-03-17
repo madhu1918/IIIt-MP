@@ -1,0 +1,16 @@
+[
+	{
+	"title":"Shopping cart",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Please find the document link that provides the details of the Shopping Cart Application you have to build."
+		},
+		{
+			"attachment": ["Shopping Cart.docx"]
+		}
+	]
+	}
+]
+
+

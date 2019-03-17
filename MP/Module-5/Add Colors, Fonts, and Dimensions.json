@@ -1,0 +1,65 @@
+[
+	{
+	"title":"Add Colors, Fonts, and Dimensions",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["S01-Exercise-DimensionsColorsAndFonts.zip"]
+		},
+		{
+			"text": "<br><b>Colours:</b>The final color scheme should be as follows:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-36.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "<br>Additionally, you should add colors for text and other details as follows:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-37.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "<br><br><b>Dimensions</b><br>Create a dimens.xml file with the following dimensions defined:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-38.png",
+					"imageName": ""
+				}
+		},
+		{
+				"image": {
+					"imageSRC": "image-39.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "<br><br><b>Fonts</b><br>Specify the fonts used in each TextView; use the sans-serif font family for label TextViews, and use the sans-serif-light font family for the temperature TextViews.<br><b>Your turn. Check each step when complete.</b>"
+		},
+		{
+				"image": {
+					"imageSRC": "image-40.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

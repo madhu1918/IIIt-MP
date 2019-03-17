@@ -1,0 +1,41 @@
+[
+	{
+	"title":"Data Binding in Sunshine",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise, you will get to update the layout for the Details Layout, while at the same time, use data binding to populate the information displayed on it. The goal is to get the Detail Layout look something like this:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-34.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "<br>To do so, start by enabling Data Binding in build.gradle, then:<ol><li>Create 2 new layouts, primary_weather_info and extra_weather_detail: ..a. primary_weather_info should include the upper part of the design as shown in the image above ..b. extra_weather_detail should include the extra details part of the design (Humidity, Pressure, etc)</li><li>Replace the old detail layout with a new Linear Layout that will include 2 new layouts above</li><li>Update the DetailActivity by replacing all findViewById calls with actual data binding like we did with the toy app.</li><li>Finally, for accessibility, make sure you set content description of all the views in the new details activity.</li></ul>Now it's your turn, follow the TODOs in the comments and check the steps below when you're done!"
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["S3-Exercise-DetailLayoutAndDataBinding.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-35.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

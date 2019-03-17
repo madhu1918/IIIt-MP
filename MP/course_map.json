@@ -254,19 +254,30 @@
                 "Video on Exercise Schedule with FirebaseJobDispatcher",
                 "Video on Broadcast Receivers",
                 "Video on Exercise Show When Charging",
+                "Getting the Current Battery State",
                 "Video on Syncing Sunshine",
+                "Synchronizing The Weather",
+                "SmarterSyncing",
+                "Sunshine FirebaseJobDispatcher",
+                "Sunshine Notifications",
                 "Video on Conclusion",
-                "Group Discussion",
                 "Video on Introduction Completing the UI",
                 "Video on Views and View Groups",
                 "Video on Constraint Layout",
+                "Installing the Constraint Layout Library",
                 "Video on Design the Boarding Pass",
                 "Video on Adding Shapes and Images",
                 "Video on Adding Vector Images",
+                "Constraint Layout",
                 "Video on Data Binding",
                 "Video on Accessibility & Internationalization",
+                "Localization",
                 "Video on Responsive Design",
-                "Video on Introduction Polishing the UI",
+                "Landscape Layout",
+                "Sunshines New Layout",
+                "Sunshine Todays List Item",
+                "Data Binding in Sunshine",
+                "Video on Introduction Polishing the UI(OPTIONAL)",
                 "Video on Android Design Principles",
                 "Video on Toy App",
                 "Video on Visual Mocks and Keylines",
@@ -284,24 +295,37 @@
                 "Video on Creating a Tablet Layout",
                 "Video on Touch Selectors",
                 "Video on Moving on to Sunshine",
+                "Add Colors, Fonts, and Dimensions",
+                "Create and Apply Styles",
+                "Add a Touch Selector",
+                "Add Resource Qualifiers",
                 "Video on Outro of all Outros",
-                "Assignment-1"
+                "Assignment-1",
+                "Assignment-2",
+                "Group Discussion"
             ],
             "learningObjectives": [],
             "overview": [],
             "title": "Module-5"
         },
         {
-            "activities": [],
-            "learningObjectives": [],
-            "overview": [],
-            "title": "Week-1 Exam"
-        },
-        {
-            "activities": [],
+            "activities": [
+                "Assignment-1",
+                "Assignment-2",
+                "Assignment-3"
+            ],
             "learningObjectives": [],
             "overview": [],
             "title": "Module-6"
+        },
+        {
+            "activities": [
+                "Shopping Cart",
+                "Assignment-1"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-7"
         },
         {
             "activities": [],

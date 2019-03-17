@@ -5,14 +5,31 @@
 		"videoURL":"10. Starter Code.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Starter Code"
-			}
-		
-		]
+	"title":"Pluralization in Android",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Part of Android’s robust resource framework involves a mechanism for pluralizing strings called “Quantity Strings”. In the strings.xml file for the Hydration Reminder app, you’ll see an example of how pluralization can be used:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-1.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "When you use the plural in code, you specify a quantity number. This number specifies what string should be used. In this case:<ul><li>if the number is zero, use <item quantity=\"zero\"></li><li>if the number is one, use <item quantity=\"one\"></li><li>otherwise use <item quantity=\"other\"></li></ul><br>Then in the MainActivity we have the following Java code to generate the correct String:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-2.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "The first usage of chargingReminder is the quantity number. It determines which version of the pluralized string to use (you must pass in a number). The second usage of chargingReminder is the number that’s actually inserted into the formatted string."
+		}
+	]
 	}
 ]
 

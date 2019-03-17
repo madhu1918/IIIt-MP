@@ -3,16 +3,6 @@
 		"title":"Video on Starting Services",
 		"activityType":"video",
 		"videoURL":"7. Starting Services.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Starting Services"
-			}
-		
-		]
 	}
 ]
 

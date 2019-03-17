@@ -3,16 +3,6 @@
 		"title":"Video on Screen Density",
 		"activityType":"video",
 		"videoURL":"16. Screen Density.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Screen Density"
-			}
-		
-		]
 	}
 ]
 

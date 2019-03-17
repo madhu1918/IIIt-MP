@@ -1,0 +1,32 @@
+[
+	{
+	"title":"Add a Touch Selector",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Add Touch Selectors<br>Create two different touch selectors. One called today_touch_selector that turns colorPrimaryDark when the today list item layout is selected, and one called touch_selector that turns the activated color (defined earlier) when the general, small list item is selected.<br>Remember the selected states are as follows: android:state_pressed, android:state_activated, and android:state_selected."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["S03-Exercise-TouchSelectors.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-42.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

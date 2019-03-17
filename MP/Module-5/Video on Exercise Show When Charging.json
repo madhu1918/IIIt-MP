@@ -5,14 +5,50 @@
 		"videoURL":"27. Exercise: Show When Charging.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Show When Charging"
+	"title":"Show When Charging",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise you'll make the plug icon change from pink to grey when the app is in the foreground when you plug and unplug the device. Debugging plugging and unplugging the device can be hard on an emulator or live phone. Because of this, you can use the<a href=\"https://developer.android.com/studio/command-line/adb.html\">Android Debug Bridge.</a> to simulate the phone being plugged and unplugged without actually doing the plugging and unplugging. This is described below.<br><br><b>Note:</b> At the end of this exercise your Hydration Reminder app will contain a small bug - if the phone is plugged in or unplugged when the app is not open, the UI will not update. This is because the dynamic broadcast receiver only receives events when the app is in the foreground. We'll be fixing this in the next exercise."
+		},
+		{
+			"text": "<br><b>Setup ADB</b><br>The Android Debug Bridge, or adb as it is affectionately called, is a command line tool. This means that you should be comfortable working in a terminal or shell to use this program. We touched on it briefly <a href=\"https://classroom.udacity.com/courses/ud851/lessons/93affc67-3f0b-4f9b-b3a4-a7a26f241a86/concepts/17476436-0b3e-46e3-a858-36d1e35b4491#\">in the first lesson</a> The adb program is stored in your android SDK folder in a subfolder called platform-tools. You can find where your SDK is by going to the SDK manager and looking at the SDK location, as shown below:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-10.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "Once you have the sdk location, you can use adb by typing:"
+		},
+		{
+			"text": "<YOUR SDK LOCATION>/platform-tools/adb <br><br> If you've added commands to your $PATH before, adb is a great one to add"
+		},
+		{
+			"text": "<br><b>Helpful adb Commands</b><br>To simulate the phone being unplugged from usb charging you can use:<br>adb shell dumpsys battery set usb 0<br>or if you're on a device Android 6.0 or higher you can use:adb shell dumpsys battery unplug<br>To \"plug\" the phone back in, just reset it's charging status using:<br>adb shell dumpsys battery reset"
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["T05Exercise-ChargingBroadcastReceiver.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-11.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

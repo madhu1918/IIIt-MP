@@ -3,16 +3,6 @@
 		"title":"Video on Hydration Reminder",
 		"activityType":"video",
 		"videoURL":"3. Hydration Reminder.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Hydration Reminder"
-			}
-		
-		]
 	}
 ]
 

@@ -3,16 +3,6 @@
 		"title":"Video on Syncing Sunshine",
 		"activityType":"video",
 		"videoURL":"29. Syncing Sunshine.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Syncing Sunshine"
-			}
-		
-		]
 	}
 ]
 

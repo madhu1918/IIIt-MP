@@ -3,16 +3,6 @@
 		"title":"Video on Design the Boarding Pass",
 		"activityType":"video",
 		"videoURL":"6. Design the Boarding Pass.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Design the Boarding Pass"
-			}
-		
-		]
 	}
 ]
 

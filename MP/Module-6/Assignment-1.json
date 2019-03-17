@@ -1,0 +1,13 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [{
+				"text": "Submit the git link of Sunshine Application.<br>Work on the pending modules and after completion submit the git link of Sunshine application"
+			}
+		]
+	}]
+}]

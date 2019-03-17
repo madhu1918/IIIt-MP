@@ -3,16 +3,6 @@
 		"title":"Video on Intent Services",
 		"activityType":"video",
 		"videoURL":"9. Intent Services.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Intent Services"
-			}
-		
-		]
 	}
 ]
 

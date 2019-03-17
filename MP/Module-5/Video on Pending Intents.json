@@ -3,16 +3,6 @@
 		"title":"Video on Pending Intents",
 		"activityType":"video",
 		"videoURL":"16. Pending Intents.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Pending Intents"
-			}
-		
-		]
 	}
 ]
 

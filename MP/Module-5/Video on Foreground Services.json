@@ -3,16 +3,6 @@
 		"title":"Video on Foreground Services",
 		"activityType":"video",
 		"videoURL":"20. Foreground Services.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Foreground Services"
-			}
-		
-		]
 	}
 ]
 

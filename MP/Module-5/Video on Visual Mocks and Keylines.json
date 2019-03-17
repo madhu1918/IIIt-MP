@@ -3,16 +3,6 @@
 		"title":"Video on Visual Mocks and Keylines",
 		"activityType":"video",
 		"videoURL":"4. Visual Mocks and Keylines.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Visual Mocks and Keylines"
-			}
-		
-		]
 	}
 ]
 

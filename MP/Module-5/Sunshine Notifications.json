@@ -1,0 +1,32 @@
+[
+	{
+	"title":"Sunshine Notifications",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "<b>Fill out NotificationUtils</b><br><br>We’ve started this for you, as there is some code that simply has nothing to do with creating notifications, and rather just accessing our data. We wanted you to get right into it, so let's do just that.<ul><li>(1) Create a constant int identifier for our notification. This can be used later to access the notification. Very useful for updates and for cancelling ongoing notifications, things like that.</li><li>(2) Next, create an Intent with the proper Uri to start the DetailActivity.</li><li>(3) We want to navigate back to the MainActivity from the DetailActivity if the user clicks the Notification and then clicks back, so use TaskStackBuilder for that.</li><li>(4) Finally, assign that intent to the NotificationBuilder object so that when the user clicks the notification, it is fired off.</li><li>(5) In order to notify the user, we need a reference to the NotificationManager, so use getSystemService to do so.</li><li>(6) Now that everything is ready, notify the user and also save the time at which we showed this notification. Notifications are totally super awesome, but we don’t want to annoy our users with too many of them.<br><br><b>Bools and default values</b><br><br>We’ll have a preference for whether or not to show notifications. The default value for this preference will be true, but we don’t want to just hard code that value.<ul><li>Create bools.xml under res/values and within it, create a boolean value set to true.</li></ul><br><br><b>Should we notify the user when we sync the data?/b><br><br>Using FirebaseJobDispatcher, we plan on updating the data from 6 to 8 times a day, depending on exactly when the system decides that’s best. We don’t want to send the user that many notifications, though!<ul><li>Within SunshineSyncTask, first check to see if notifications are enabled at all. If they are, we’ll also need to check to see when the last time we notified the user was. If it was less than a day ago, it’s better that we hold off, and just keep our user happy that her weather data is up to date and ready to be displayed as soon as she wants it!</li></ul><br><br><b>Android O</b><br>The launch of Android O might cause some functionality in the solution code to not work as expected. Unfortunately Sunshine from this point onward will not be maintained.<br><br><b>QUIZ QUESTION</b><br>Now it's your turn. Follow the TODOs in this coding exercise and check the steps below as your done."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["S04-Exercise-Notifications.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-21.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

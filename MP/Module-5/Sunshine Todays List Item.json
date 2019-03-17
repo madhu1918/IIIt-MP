@@ -1,0 +1,41 @@
+[
+	{
+	"title":"Sunshine Todays List Item",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "RecyclerViews allow you to inflate different layouts for each of its items, this flexibility give us the power to come up with more user friendly designs, like the one we about to do in this exercise.<br><br>The goal for this exercise is to highlight Today's forecast compared to the rest of the week by making some subtle modifications in the padding and icon and text sizes for the first item (today's forecast) in the recycler view list, but keeping every other item the same."
+		},
+		{
+				"image": {
+					"imageSRC": "image-32.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "<br>To get from this old forecast layout to the new one, we will have to use a few of RecyclerView Adapter's core functionalities:<br><br><b>I. Create the new layout for Today<ul><li>Add a layout called list_item_forecast_today, then use a constraint layout to implement the today list item design as shown in the image above.</li></ul><br><br><b>II. Create booleans to personalize the experience</b><ul><li>Add a boolean resource called use_today_layout in res/values and set it to some default value (true or false).</li><li>Create a resources file called bools.xml within the res/values-port directory to provide a customized boolean setting for the portrait specific layout.</li><li>Add another boolean resource, also called use_today_layout, in res/values-port and set it to false to default the portrait layout to not show the customized Today's design.</li></ul><br><br><b>III. getItemViewType:</b><br>Now, to get the RecyclerView to know when to use which layout for its individual items; we will have to override getItemViewType. This will allow us to define different view types for different RecyclerView items based on the position.<ul><li>Override getItemViewType.</li><li>Within getItemViewType, if our boolean resource is true and item position is 0 (first item in the list), return a custom ID for today's viewType (call it VIEW_TYPE_TODAY).</li><li>Otherwise, return a custom ID for future day viewType (call it VIEW_TYPE_FUTURE_DAY).</li></ul><br><br><b>IV. onCreateViewHolder</b><br>Last part would be to update onCreateViewHolder and use the returned ViewType from getItemViewType and decide on which layout to inflate:<ul><li>If the ViewType of the layout is today (VIEW_TYPE_TODAY), Inflate and use list_item_forecast_today layout.</li><li>If the ViewType of the layout is future day (VIEW_TYPE_FUTURE_DAY), use the normal forecast_list_item layout.</li><li>Otherwise, throw an IllegalArgumentException!</li></ul>Now it's your turn to create a customized layout for Today's forecast in the RecyclerView. Follow the TODOs in the comments and check those steps below when you're done!"
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["S02-Exercise-TodayListItem.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-33.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

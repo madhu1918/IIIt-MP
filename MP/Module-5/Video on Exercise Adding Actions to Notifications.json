@@ -5,14 +5,32 @@
 		"videoURL":"19. Exercise: Adding Actions to Notifications.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Adding Actions to Notifications"
+	"title":"Adding Actions to Notifications",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise you'll add the ability to record drinking a cup of water straight from the notification or to clear away the notification entirely."
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-NotificationActions.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-5.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

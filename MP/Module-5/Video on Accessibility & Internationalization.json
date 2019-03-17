@@ -5,14 +5,22 @@
 		"videoURL":"12. Accessibility & Internationalization.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Accessibility & Internationalization"
-			}
-		
-		]
+	"title":"Accessibility & Internationalization",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Accessibility refers to the design of products, devices, services, or environments for people who experience disabilities. Android provides accessibility features like<ul><li>TalkBack which is a pre-installed screen reader service provided by Google. It uses spoken feedback to describe the results of actions such as launching an app, and events such as notifications.</li><li>Explore by Touch which is a system feature that works with TalkBack, allowing you to touch your device's screen and hear what's under your finger via spoken feedback. This feature is helpful to users with low vision.</li><li>Accessibility settings that let you modify your device's display and sound options, such as increasing the text size, changing the speed at which text is spoken, and more. and more.</li></ul>To take full advantage of those features, you should follow this checklist listed here from the android developer website, but let’s focus on the first one for now which is the most important.<br><br><b>Describe user interface controls<br>If you look at our layout design for the boarding pass, you can immediately tell that our origin airport is JFK and the destination airport is DCA, simply because of their relative location on the screen and the direction of the plane. But if you cannot see this layout due to a visual limitation, simply having android read out everything on the screen won’t tell you enough information about which is which."
+		},
+		{
+				"image": {
+					"imageSRC": "image-26.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "That’s why Android offers the contentDescription attribute to describe what any view actually presents, this description text is not displayed anywhere on the screen, but if the user enables accessibility services that provide audible prompts, then when the user navigates to that control, the text is spoken<br><br><ImageView android:contentDescription=\"@string/origin_label\"/><br><br>Ideally, in any app, you would want to describe all ImageViews, ImageButtons and all Checkboxes using the contentDescription attribute.<br><br>ContentDescription is just one of many things you need to consider when building your app for accessibility, others include:<ul><li>Enable focus-based navigation which makes sure users can navigate your screen layouts using external hardware like bluetooth keyboards.</li><li>No audio-only feedback which guarantees any audio feedback to always have a secondary feedback mechanism to support users who are deaf or hard of hearing</li></ul><br><br>For the full check list and best practices follow this link <a href=\"https://developer.android.com/guide/topics/ui/accessibility/apps#recommendations\"> Accessibility Developer Checklist</a> "
+		}
+	]
 	}
 ]
 

@@ -1,0 +1,32 @@
+[
+	{
+	"title":"Sunshine FirebaseJobDispatcher",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Syncing on demand is great, but don’t we want to continuously update the data for our users, even when the app isn’t in the foreground? After all, who wants to sit and wait for their weather data anymore? I know I certainly don’t! Now that we’ve learned about FirebaseJobDispatcher, let’s make use of it in Sunshine!<br><br><b>Add the FirebaseJobDispatcher dependency</b><br>As with any dependency, we’ll need to add FirebaseJobDispatcher to our project. That’s going to be step one here.<br><br><b>Create our FirebaseJobService</b><br><br>Next, we need to create the Service that FirebaseJobDispatcher runs when it, well, runs our service!<ul><li>(1) Let’s create a jobdispatcher.JobService called SunshineFirebaseJobService. It’s important that we verify that we’ve imported jobdispatcher.JobService rather than the Android framework’s JobService, because if you do, you’ll definitely have some headaches. Double and triple check that please.</li><li>(2) Within your Service, override onStartJob and call to our SunshineSyncTask.syncWeather method in the background.</li><li>(3) Once the syncWeather method finishes, call jobFinished, passing the JobParameters argument from onStartJob as well as a false value to signify that we don’t have any more work to do.</li><li>(4) Now, to clean up any mess that may be caused by the framework cancelling our jobs, override onStopJob, and stop our background thread that was started in onStartJob.</li><li>(5) Then, return true to tell the system, “Yes please, we’d like to be rescheduled to finish that work that we were doing when you so rudely interrupted us.</li></ul><br><br><b>Declare our newly created Service in the Manifest</b><br>Although FirebaseJobDispatcher JobServices have some cool features, they are still one of those main four components of the Android framework that need to be declared in the Manifest. Go ahead and do that now, or your app will crash when FirebaseJobDispatcher attempts to run your service.<br><br><b>Modify SunshineSyncUtils</b><br>We created SunshineSyncUtils in the last lesson, and we’ll finish it up here.<ul><li>(1) Add constant values to represent how frequently, and with what timeframe, we will perform our weather synchronization. Every three to four hours is a good rule of thumb here.</li><li>(2) While we’re at it, let’s add a tag to identify our sync job. Call it SUNSHINE_SYNC_TAG.</li><li>(3) After that, create the method that builds and dispatchers our Job, and then call that method from the initialize method (only if the method hasn’t been previously initialized).</li><ul><br><br><b>QUIZ QUESTION</b>Now that we’ve learned about FirebaseJobDispatcher, let’s make use of it in Sunshine! Follow the TODOs in this coding exercise and check the steps below as your done."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["S3-Exercise-FirebaseJobDispatcher.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-20.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

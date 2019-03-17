@@ -3,16 +3,6 @@
 		"title":"Video on Toy App",
 		"activityType":"video",
 		"videoURL":"3. Toy App.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Toy App"
-			}
-		
-		]
 	}
 ]
 

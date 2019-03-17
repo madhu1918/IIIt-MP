@@ -1,0 +1,32 @@
+[
+	{
+	"title":"Add Resource Qualifiers",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Add Resource Qualifiers<br>You're on the very last step for Sunshine and completing this course!!<br>You've learned how to create unique layout resources for screens of different sizes and orientations. In this exercise, you'll create a unique layout that displays when a device is in landscape orientation.<br>Use the qualifier -land to create this layout and modify the layout so that it is a horizontal linear layout that contains the today list item and general list items side by side.<br>Dimensions<br>You'll also want to create dimensions that are unique to this landscape layout and tablet layouts that help consistently space out the views.<br>Create the version of dimens that will be used in landscape mode as follows:<br>Dimension Name    Value<br>forecast_detail_horizontal_padding    16dp<br>forecast_detail_vertical_padding    44dp<br>AND create the version of dimens that will be used when the smallest width of the screen is 600dp as follows:<br>Dimension Name    Value<br>forecast_detail_vertical_padding    24dp<br>today_forecast_list_item_vertical_padding    24dp<br>list_item_icon_margin_right    24dp<br>list_item_icon_margin_end    @dimen/list_item_icon_margin_right<br>list_item_padding_horizontal    24dp"
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["S4-Exercise-ResourceQualifiers.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-43.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

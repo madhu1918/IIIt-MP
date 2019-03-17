@@ -1,0 +1,35 @@
+[
+	{
+	"title":"Landscape Layout",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise, you will get to implement an alternative layout for the boarding pass app to support landscape mode."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["T03-Exercise-LandscapeLayout.zip"]
+		},
+		{
+			"text": "<br>Now it's your turn to create a new layout file for the landscape design and reorder views to make them all fit in the same landscape screen."
+		},
+		{
+				"image": {
+					"imageSRC": "image-29.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

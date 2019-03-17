@@ -5,14 +5,26 @@
 		"videoURL":"24. Exercise: Adding a JobService.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Adding a JobService"
+	"title":"Adding a JobService",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Note: There is a subtle error in the video above. For the classes JobService and JobParameters you want to use the classes from com.firebase.jobdispatcher.JobService. You DO NOT want to useimport android.app.job.JobService. The latter is used for JobScheduler and remember, we're using FirebaseJobDispatcher because it is compatible with older versions of Android.<br><br>This is the first part of a two part exercise. In this exercise you will make a JobService. In the next exercise you will schedule it using <a href=\"https://github.com/firebase/firebase-jobdispatcher-android\">FirebaseJobDispatcher.</a>"
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-PeriodicSyncWithJobDispatcher.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

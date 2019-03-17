@@ -1,0 +1,28 @@
+[
+	{
+	"title":"Installing the Constraint Layout Library",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "To continue building the Boarding Pass app, you'll need to make sure you have the latest Constraint Layout library. To ensure you have the latest Constraint Layout library:<ol><li>Click Tools > Android > SDK Manager.</li><li>Click the SDK Tools tab.</li><li>Expand Support Repository and then check ConstraintLayout for Android and Solver for ConstraintLayout. Check Show Package Details and take note of the version you're downloading (you'll need this below).</li><li>Click OK.</li><li>Add the ConstraintLayout library as a dependency in your module-level build.gradle file:</li><li>dependencies {<br>     compile 'com.android.support.constraint:constraint-layout:1.0.0-beta4'<br> }</li><li>The library version you download may be higher, so be sure the value you specify here matches the version from step 3.</li><li>In the toolbar or sync notification, click Sync Project with Gradle Files.</li><li>Now you're ready to build your layout with ConstraintLayout."
+		},
+		{
+				"image": {
+					"imageSRC": "image-22.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "<br><br><b>BoardingPass Code</b><br>In this lesson, we will work on building out a BoardPass app which helps users get information about their flight such as which terminal, gate number, and seat number.<br><br><b>Explanation of BoardingPass App</b><br>Throughout this lesson, you will get to design this layout of a boarding pass app from scratch using Constraint Layouts and Data Binding, you will also get to add important accessibility and localization attributes in the app to cater for a wide diversity of potential users."
+		},
+		{
+				"image": {
+					"imageSRC": "image-23.png",
+					"imageName": ""
+				}
+		}
+	]
+	}
+]
+
+

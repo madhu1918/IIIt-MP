@@ -3,16 +3,6 @@
 		"title":"Video on Style Inheritance",
 		"activityType":"video",
 		"videoURL":"13. Style Inheritance.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Style Inheritance"
-			}
-		
-		]
 	}
 ]
 

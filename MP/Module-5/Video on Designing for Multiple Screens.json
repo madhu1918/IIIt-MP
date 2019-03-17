@@ -3,16 +3,6 @@
 		"title":"Video on Designing for Multiple Screens",
 		"activityType":"video",
 		"videoURL":"15. Designing for Multiple Screens.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Designing for Multiple Screens"
-			}
-		
-		]
 	}
 ]
 

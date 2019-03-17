@@ -5,14 +5,32 @@
 		"videoURL":"13. Exercise: Add an IntentService.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Add an IntentService"
+	"title":"Add an IntentService",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "In this exercise, you'll add the ability to increment the water count, using a Service."
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["Exercise-IntentServices.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-3.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

@@ -3,16 +3,6 @@
 		"title":"Video on Changing Colors and Fonts",
 		"activityType":"video",
 		"videoURL":"9. Changing Colors and Fonts.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Changing Colors and Fonts"
-			}
-		
-		]
 	}
 ]
 

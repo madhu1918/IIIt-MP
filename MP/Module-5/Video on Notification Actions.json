@@ -3,16 +3,6 @@
 		"title":"Video on Notification Actions",
 		"activityType":"video",
 		"videoURL":"18. Notification Actions.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Notification Actions"
-			}
-		
-		]
 	}
 ]
 

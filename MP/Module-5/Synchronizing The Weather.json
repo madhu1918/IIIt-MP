@@ -1,0 +1,32 @@
+[
+	{
+	"title":"Synchronizing The Weather",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "This process is going to be very similar to the one we followed when we created our toy app for this lesson. First, we’re going to create a class that represents the “task” we’re going to perform. Then, we’ll create and register an IntentService that will be able to perform that task. Next, we’ll create a class to handle all of our synchronization. Once that’s done, we can move on to rewiring the app to work with our new synchronization strategy.<br><b>Create SunshineSyncTask</b><ul><li>(1) In order to keep all of our code organized, go ahead and create a class called SunshineSyncTask.</li><li>(2) Within that class, we’re just going to write one method. This method is going to be the main “task” of Sunshine.</li><li>(3) Call this method syncWeather, and within it, move the logic that was previously in our AsyncTaskLoader for loading the weather data.</li><li>(4) If you fetch valid results, delete the old weather data and insert the new data.<br><b>Create and Register SunshineSyncIntentService</b><br>Next, we’ll need a class to handle backgrounding our syncTask. IntentServices are perfect for one off tasks that need to be handled in the background, so we’ll create one here.<ul><li>(1) Create SunshineSyncIntentService class and set it to extend IntentService.</li><li>(2) Next, create a constructor that calls super and passes the name of this class as a string.</li><li>(3) Finally, override onHandleIntent. Within it, we’ll call SunshineSyncTask.syncWeather</li></ul><br><b>Create SunshinesyncUtils</b><br>Now that we have a way to sync the weather and a way to handle backgrounding that sync, let’s get everything wired up. For that, we’ll create a class called SunshineSyncUtils.<ul><li>(1) Inside we’ll create a startImmediateSync method that will start the IntentService and force an immediate synchronization when called.</li></ul><br><b>QUIZ QUESTION</b>Alright, now it's your turn to create all the synchronization classes and hook them up in this exercise. Follow Sunshine exercise 10.01 - SynchronizingTheWeather"
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["S1-Exercise-SynchronizingTheWeather.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-18.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

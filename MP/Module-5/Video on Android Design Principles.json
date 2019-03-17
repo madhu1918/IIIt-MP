@@ -3,16 +3,6 @@
 		"title":"Video on Android Design Principles",
 		"activityType":"video",
 		"videoURL":"2. Android Design Principles.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Android Design Principles"
-			}
-		
-		]
 	}
 ]
 

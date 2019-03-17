@@ -5,14 +5,32 @@
 		"videoURL":"25. Exercise: Schedule with FirebaseJobDispatcher.mp4"
 	},
 	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Exercise Schedule with FirebaseJobDispatcher"
+	"title":"Schedule with FirebaseJobDispatcher",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "This is the second part of a two part exercise. In this exercise you will schedule the WaterReminderFirebaseJobService you made in the last exercise with <a href=\"https://github.com/firebase/firebase-jobdispatcher-android\">FirebaseJobDispatcher.</a> You'll schedule it to run so that:<ul><li>It runs every 15 minutes with a flex-time window of 15 minutes</li><li>It runs only if the phone is charging</li><li>It runs forever after it's schedule, even if the user reboots the device<br><br><b>Exercise Code</b><br>Note: You should continue working off of the code you created in the last exercise. The code below is the exercise code from the start of this two part exercise."
+		},
+		{
+			"text": "Exercise:"
+		},
+		{
+			"attachment": ["T04-Exercise-PeriodicSyncWithJobDispatcher.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-9.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
 			}
-		
 		]
+	}]
 	}
 ]
 

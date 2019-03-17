@@ -3,16 +3,6 @@
 		"title":"Video on Style a Mail Layout",
 		"activityType":"video",
 		"videoURL":"11. Styles and Themes.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Style a Mail Layout"
-			}
-		
-		]
 	}
 ]
 

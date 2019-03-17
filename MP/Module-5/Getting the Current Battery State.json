@@ -1,0 +1,77 @@
+[
+	{
+	"title":"Getting the Current Battery State",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "As mentioned, our code currently contains a bug. Our app adds and removes the dynamic broadcast receiver in onResume and onPause. When the app is not visible, the plug's image will not update. This can lead to the plug sometimes having the incorrect image when the app starts."
+		},
+		{
+				"image": {
+					"imageSRC": "image-12.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "Now we could move the code to dynamically add and remove the broadcast receiver in different lifecycle methods, for example onCreate and onDestroy, but this would cause us to waste cycles swapping around an image which isn't even on screen. A better approach is to check what the current battery state is when the app resumes and update the image accordingly.<br>There are two ways to do this, depending on whether you're on API level 23+ or before."
+		},
+		{
+			"text": "<br><b>Getting Charging State on API level 23+</b><br>To get the current state of the battery on API level 23+, simply use the battery manager system service:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-13.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "<br><b>Getting Charging State with a Sticky Intent</b><br>Prior to Android 23+ you needed to use a sticky intent to get battery state. As we've seen, a normal, broadcasted intent will be broadcasted, possibly caught by an intent filter, and then disspear after it is processed. A sticky intent is a broadcast intent that sticks around, allowing your app to access it at any point and get information from the broadcasted intent. In Android, a sticky intent is where the current battery state is saved.<br>You don't need a broadcast receiver for a sticky intent, but you use similar looking code to registering a receiver:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-14.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "<br>Notice how registerReceiver is used, but instead of passing in a broadcast receiver, null is passed. The intent filter here is the intent filter for the sticky intent <a href=\"https://developer.android.com/reference/android/content/Intent.html#ACTION_BATTERY_CHANGED\">Intent.ACTION_BATTERY_CHANGED.</a> The registerReceiver method will return an intent, and it is that intent which has all of the battery information, which you can use:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-15.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "<br>For more information on how to getting information about the battery, check out the <a href=\"https://developer.android.com/training/monitoring-device-state/battery-monitoring.html\">Monitoring the Battery Level and Charging State documentation</a> Now that you know how to get battery state, you should be able to complete the following exercise and fix the bug. The code is below. Note: If you need to check whether the user is on API 23+, you can use the following code:"
+		},
+		{
+				"image": {
+					"imageSRC": "image-16.png",
+					"imageName": ""
+				}
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["T06Exercise-StickyBroadcastForCharging.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-17.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+

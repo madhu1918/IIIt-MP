@@ -3,16 +3,6 @@
 		"title":"Video on Outro of all Outros",
 		"activityType":"video",
 		"videoURL":"34. Outro of all Outros.mp4"
-	},
-	{
-		"activityType":"quiz",
-		"questions": [
-			{
-				"questionType":"summarize",
-				"questionText":"Summarize the Video on Outro of all Outros"
-			}
-		
-		]
 	}
 ]
 

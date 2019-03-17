@@ -1,0 +1,32 @@
+[
+	{
+	"title":"SmarterSyncing",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "This Exercise is all about optimizing the synchronization process that was made in the previous exercise. It’s best practice to not initialize things more than once, so for that, we will make sure that startImmediateSync will only get called once when the app starts and only if the database was empty<br><br><b>To do so, inside SunshineSyncUtils class:</b><ul><li>(1) Create a boolean flag called sInitialized. This will be mainly used as a safeguard to prevent calling the synchronize method more than once.</li><li>(2) Next create an initialize method that will use that boolean to guarantee that startImmediateSync is called only when necessary!</li><li>(3) Within it, don’t do any work if the sInitialized flag is already set to true. If it isn’t set to true, we want to check to see if our ContentProvider is empty, in case for example the app was just freshly installed and had no data stored yet!.</li><li>(4) To check if the ContentProvider is empty, simply run a query and get the result count, but do so on a background thread using an AsyncTask.</li><li>(5) If the ContentProvider is in fact empty, go ahead and call startImmediateSync.</li></ul><br><b>QUIZ QUESTION</b><br>Now it's your turn to optimize the initialization process of our SunshineSyncUtil class. Follow the TODOs in this exercise and check the steps below when you're done."
+		},
+		{
+			"text": "<br><br>Exercise:"
+		},
+		{
+			"attachment": ["S2-Exercise-SmarterSyncing.zip"]
+		},
+		{
+				"image": {
+					"imageSRC": "image-19.png",
+					"imageName": ""
+				}
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"questionText": [{
+				"text": "Please Submit the git link here"
+			}
+		]
+	}]
+	}
+]
+
+
